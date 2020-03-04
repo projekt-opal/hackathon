@@ -14,7 +14,8 @@ To be more specific and to provide some ideas, we defined some [example tasks](t
 
 ### Data
 
-Data, metadata, formats and specifications are described at [data overview](data.md).
+Data formats and specifications are described at page [formats](formats.md).
+Data access information is available at [data](data.md).
 
 ### Notes
 
