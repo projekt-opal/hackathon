@@ -38,7 +38,7 @@ Note that some approaches already have been implemented, e.g.
 [data slicing](https://github.com/projekt-opal/ElasticTriples).
 You can also improve the implementations.
 
-## (Meta-)data + (Meta-)data
+## Metadata + Metadata + Data + Data
 
 If you already found multiple datasets, that are related to each other.
 This could be two datasets concerning the same topic, e.g. the field of traffic or the same time period or the same city.
