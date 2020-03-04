@@ -1,6 +1,6 @@
 # Data formats
 
-Three data concepts are important: **RDF** (format), **DCAT** (vocabulary) and **SPARQL** (query language).
+Three data concepts are important: **RDF** (format), **DCAT** (vocabulary) and **SPARQL** (query language).  
 Data access is described at page [data](data.md)
 
 ## RDF (Resource Description Framework)
