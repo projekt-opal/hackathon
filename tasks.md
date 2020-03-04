@@ -31,6 +31,12 @@ OFFSET 0
 Maybe you already played around with some scientific approaches.
 That could for instance be a topic extraction or a statistical analysis.
 You are free to apply those approaches to the available metadata records.
+
+An idea is to first create a set of titles, descriptions and categories of existing datasets.
+As not for all datasets a category is set, this could become a supervised (machine learning) categorization task.
+Use the complete datasets to create a model containing used words on the one hand and categories on the other hand.
+Based on comparisons of word vectors, categories can be set for datasets without categories.
+
 Note that some approaches already have been implemented, e.g.
 [automatic quality assessment](https://github.com/projekt-opal/civet),
 [language detection and geodata extraction](https://github.com/projekt-opal/metadata-refinement),
