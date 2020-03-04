@@ -10,7 +10,7 @@ We focus on graphs consisting of RDF data. The main concepts are described at [R
 
 ## DCAT (Data Catalog Vocabulary)
 
-DCAT is an RDF vocabulary which enables to describe datasets and related concepts. It is described at [Data Catalog Vocabulary (DCAT) - Version 2](https://www.w3.org/TR/vocab-dcat-2/).
+DCAT is an RDF vocabulary which enables to describe datasets and related concepts. The classes of interest are dcat:Dataset and dcat:Distribution (a specific representation of a dataset). DCAT is described at [Data Catalog Vocabulary (DCAT) - Version 2](https://www.w3.org/TR/vocab-dcat-2/).
 
 ![DCAT overview](https://www.w3.org/TR/vocab-dcat-2/images/DCAT-summary-all-attributes.png)
 
