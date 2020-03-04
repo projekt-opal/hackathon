@@ -10,17 +10,7 @@ Here you can access DCAT/RDF data:
 * [European Data Portal SPARQL endpoint](https://www.europeandataportal.eu/sparql)
 * [OPAL data dumps](https://hobbitdata.informatik.uni-leipzig.de/OPAL/)
 
-## Mobility datasets
-
-If you want to work with mobility datasets, you can explore and download them at different open data portals.
-Have a look here:
-[mCLOUD](https://www.mcloud.de/), 
-[GovData](https://www.govdata.de/), 
-[European Data Portal](https://www.europeandataportal.eu/),
-[EU Open Data portal](https://data.europa.eu/euodp/en/data/) and
-[other portals](https://github.com/projekt-opal/doc/wiki/Open-Data-Portals).
-
-### SPARQL examples
+## SPARQL examples
 
 Try a SPARQL query at a SPARQL endpoint (see above).
 
@@ -39,3 +29,13 @@ SELECT ?title ?url WHERE {
 LIMIT 100
 OFFSET 0
 ```
+
+## Mobility datasets
+
+If you want to work with mobility datasets, you can explore and download them at different open data portals.
+Have a look here:
+[mCLOUD](https://www.mcloud.de/), 
+[GovData](https://www.govdata.de/), 
+[European Data Portal](https://www.europeandataportal.eu/),
+[EU Open Data portal](https://data.europa.eu/euodp/en/data/) and
+[other portals](https://github.com/projekt-opal/doc/wiki/Open-Data-Portals).
