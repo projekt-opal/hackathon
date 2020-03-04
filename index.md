@@ -19,12 +19,10 @@ Data access information is available at [data](data.md).
 
 ### Notes
 
-This page is available in [hacker style](https://projekt-opal.github.io/hackathon/) and on [GitHub](https://github.com/projekt-opal/hackathon/blob/gh-pages/index.md).
-
+This page is available in [hacker style](https://projekt-opal.github.io/hackathon/) and on [GitHub](https://github.com/projekt-opal/hackathon/blob/gh-pages/index.md).  
 The hackathon is related to the OPAL project, introduced at [DICE webiste](https://dice-research.org/OPAL) and [OPAL website](http://projekt-opal.de/en/welcome-project-opal/).
 
 ### Contact
 
 [Data Science Group at Paderborn University](https://dice-research.org/)  
-
 Send a mail to `adrian.wilke(at)upb.de` and please begin the mail subject with `[Hackathon]`.
