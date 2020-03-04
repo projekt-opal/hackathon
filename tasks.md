@@ -31,11 +31,16 @@ OFFSET 0
 Maybe you already played around with some scientific approaches.
 That could for instance be a topic extraction or a statistical analysis.
 You are free to apply those approaches to the available metadata records.
-Nore that some approaches aleady have been implemented, e.g.
-[atomatic quality assessment](https://github.com/projekt-opal/civet),
+Note that some approaches already have been implemented, e.g.
+[automatic quality assessment](https://github.com/projekt-opal/civet),
 [language detection and geodata extraction](https://github.com/projekt-opal/metadata-refinement),
 [geographical topic extraction](https://github.com/projekt-opal/Topic-Extraction) and
 [data slicing](https://github.com/projekt-opal/ElasticTriples).
 You can also improve the implementations.
 
+## (Meta-)data + (Meta-)data
 
+If you already found multiple datasets, that are related to each other.
+This could be two datasets concerning the same topic, e.g. the field of traffic or the same time period or the same city.
+Feel free to work on combining such datasets.
+But before publishing created data, check the underlying licenses!
