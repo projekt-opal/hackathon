@@ -1,20 +1,14 @@
 # Data
 
-We focus on two types of data: Open metadata records and mobility datasets.
+We focus on two types of data: Open metadata records and mobility datasets.  
+Data formats are described on page [formats](formats.md).
 
 ## Open metadata records
 
-### RDF (Resource Description Framework)
+Here you can access DCAT/RDF data:
 
-In the DICE group, we focus on graphs consisting of RDF data. The main concepts are described at [RDF 1.1 Primer](https://www.w3.org/TR/rdf11-primer/).
-
-### DCAT (Data Catalog Vocabulary)
-
-DCAT is an RDF vocabulary which enables to describe datasets and related concepts. It is described at [Data Catalog Vocabulary (DCAT) - Version 2](https://www.w3.org/TR/vocab-dcat-2/).
-
-### SPARQL (SPARQL Protocol and RDF Query Language)
-
-Like SQL for relational databases, SPARQL can be used to query RDF databases (triplestores). The specification can be found at [SPARQL 1.1 Query Language](https://www.w3.org/TR/sparql11-query/).
+* [European Data Portal SPARQL endpoint](https://www.europeandataportal.eu/sparql)
+* [OPAL data dumps](https://hobbitdata.informatik.uni-leipzig.de/OPAL/)
 
 ## Mobility datasets
 
@@ -22,18 +16,9 @@ If you want to work with mobility datasets, you can explore and download them at
 Have a look here:
 [mCLOUD](https://www.mcloud.de/), 
 [GovData](https://www.govdata.de/), 
-[European Data Portal](https://www.europeandataportal.eu/) or
-[EU Open Data portal](https://data.europa.eu/euodp/en/data/).
-
-## Examples
-
-### RDF example
-
-![RDF example](https://www.w3.org/TR/rdf11-primer/example-graph-iris.jpg)
-
-### DCAT overview
-
-![DCAT overview](https://www.w3.org/TR/vocab-dcat-2/images/DCAT-summary-all-attributes.png)
+[European Data Portal](https://www.europeandataportal.eu/),
+[EU Open Data portal](https://data.europa.eu/euodp/en/data/) and
+[other portals](https://github.com/projekt-opal/doc/wiki/Open-Data-Portals).
 
 ### SPARQL example
 
@@ -52,6 +37,3 @@ SELECT ?title ?url WHERE {
 LIMIT 100
 OFFSET 0
 ```
-
-
-
