@@ -40,7 +40,7 @@ You can also improve the implementations.
 
 ## Metadata + Metadata + Data + Data
 
-If you already found multiple datasets, that are related to each other.
+If you already found multiple datasets, that are related to each other, you could think about combining them into one dataset.
 This could be two datasets concerning the same topic, e.g. the field of traffic or the same time period or the same city.
 Feel free to work on combining such datasets.
 But before publishing created data, check the underlying licenses!
