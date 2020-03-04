@@ -20,7 +20,7 @@ Data access information is available at [data](data.md).
 ### Notes
 
 This page is available in [hacker style](https://projekt-opal.github.io/hackathon/) and on [GitHub](https://github.com/projekt-opal/hackathon/blob/gh-pages/index.md).  
-The hackathon is related to the OPAL project, introduced at [DICE webiste](https://dice-research.org/OPAL) and [OPAL website](http://projekt-opal.de/en/welcome-project-opal/).
+The hackathon is related to the OPAL project, introduced at [DICE website](https://dice-research.org/OPAL) and [OPAL website](http://projekt-opal.de/en/welcome-project-opal/).
 
 ### Contact
 
