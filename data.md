@@ -1,6 +1,6 @@
 # Data
 
-We focus on two types of data: Open metadata records and mobility datasets.  
+We focus on two types of data: **Open metadata records** and **mobility datasets**.  
 Data formats are described on page [formats](formats.md).
 
 ## Open metadata records
@@ -20,9 +20,11 @@ Have a look here:
 [EU Open Data portal](https://data.europa.eu/euodp/en/data/) and
 [other portals](https://github.com/projekt-opal/doc/wiki/Open-Data-Portals).
 
-### SPARQL example
+### SPARQL examples
 
-Try a SPARQL query at the [European Data Portal SPARQL endpoint](https://www.europeandataportal.eu/sparql): Using the DCAT specification, we request 100 download URLs of datasets:
+Try a SPARQL query at a SPARQL endpoint (see above).
+
+#### Request 100 download URLs of DCAT datasets
 
 ```SPARQL
 PREFIX dcat: <http://www.w3.org/ns/dcat#>
