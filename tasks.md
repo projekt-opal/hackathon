@@ -1,6 +1,6 @@
 # Tasks
 
-In the OPAL project, we're working with DCAT datasets in RDF format (see [data](data.md)).
+In the OPAL project, we're working with DCAT datasets in RDF format (see [formats](formats.md)).
 This is the basis of the hackathon.
 There are ideas for components that could be used in the project.
 
@@ -12,7 +12,7 @@ For this you can use a JavaScript library, framework or API. Some examples are l
 
 An example to query spatial data is given in the following code.
 Note that the returned results have different types and the query has to be refined.
-For instance, you can execute the query at the [EDP SPARQL endpoint](https://www.europeandataportal.eu/sparql).
+You can execute the query a SPARQL endpoint listed at [data](data.md).
 
 ```SPARQL
 PREFIX dcat: <http://www.w3.org/ns/dcat#>
