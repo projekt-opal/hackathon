@@ -11,6 +11,10 @@ We'll send an invitation mail as soon as we get feedback about the available roo
 
 Data, metadata, formats and specifications are described at [data overview](data.md).
 
+### Note
+
+This page is available in [hacker style](https://projekt-opal.github.io/hackathon/) and on [GitHub](https://github.com/projekt-opal/hackathon/blob/gh-pages/index.md).
+
 ### Contact
 
 Send a mail to `adrian.wilke(at)upb.de` and please begin the mail subject with `[Hackathon]`.  
