@@ -4,8 +4,38 @@ In the OPAL project, we're working with DCAT datasets in RDF format (see [data](
 This is the basis of the hackathon.
 There are ideas for components that could be used in the project.
 
-## Data + JavaScript Visualization
+## Metadata + JavaScript Visualization
 
 Datasets may contain spatial information (geo coordinates).
 The spatial information could be visualized as a map like at [OpenDataMonitor](https://opendatamonitor.eu/).
 For this you can use a JavaScript library, framework or API. Some examples are listed in this [article](https://geoawesomeness.com/top-19-online-geovisualization-tools-apis-libraries-beautiful-maps/).
+
+An example to query spatial data is given in the following code.
+Note that the returned results have different types and the query has to be refined.
+For instance, you can execute the query at the [EDP SPARQL endpoint](https://www.europeandataportal.eu/sparql).
+
+```SPARQL
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+PREFIX dct: <http://purl.org/dc/terms/>
+
+SELECT * WHERE {
+  ?dataset a dcat:Dataset .
+  ?dataset dct:spatial ?spatial .
+}
+LIMIT 100
+OFFSET 0
+```
+
+## Metadata + Data Science approach
+
+Maybe you already played around with some scientific approaches.
+That could for instance be a topic extraction or a statistical analysis.
+You are free to apply those approaches to the available metadata records.
+Nore that some approaches aleady have been implemented, e.g.
+[atomatic quality assessment](https://github.com/projekt-opal/civet),
+[language detection and geodata extraction](https://github.com/projekt-opal/metadata-refinement),
+[geographical topic extraction](https://github.com/projekt-opal/Topic-Extraction) and
+[data slicing](https://github.com/projekt-opal/ElasticTriples).
+You can also improve the implementations.
+
+
