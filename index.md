@@ -3,11 +3,11 @@
 ### Date
 
 Day: Monday, **April 6th**, 2020  
-Room: To be announced (probably during the week starting on March 9)
+Room: D1.338
 
 ### Participation
 
-We'll send an invitation mail as soon as we get feedback about the available room.
+We'll send invitation mails soon.
 
 ### Tasks
 
@@ -17,7 +17,7 @@ To be more specific and to provide some ideas, we defined some [example tasks](t
 ### Data
 
 Data formats and specifications are described at page [formats](formats.md).  
-Data access information is available at [data](data.md).
+Data access information is available at [data](data.md) and [open data paderborn](open-data-paderborn.md).
 
 ### Notes
 
