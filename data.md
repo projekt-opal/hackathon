@@ -41,4 +41,4 @@ Have a look here:
 [EU Open Data portal](https://data.europa.eu/euodp/en/data/) and
 [other portals](https://github.com/projekt-opal/doc/wiki/Open-Data-Portals).
 
-[Start page](index)
+[Start page](index.md)
