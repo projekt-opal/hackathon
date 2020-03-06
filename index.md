@@ -16,7 +16,7 @@ To be more specific and to provide some ideas, we defined some [example tasks](t
 
 ### Data
 
-Data formats and specifications are described at page [formats](formats.md).  
+Min data formats and specifications are described at page [formats](formats.md).  
 Data access information is available at [data](data.md) and [open data paderborn](open-data-paderborn.md).
 
 ### Notes
