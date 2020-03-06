@@ -12,6 +12,11 @@ You can use the [QGIS (Wikipedia)](https://en.wikipedia.org/wiki/QGIS) software 
 For downloads, see the [QGIS download website](https://www.qgis.org/de/site/forusers/download.html).
 Maybe you want to write a SAX parser?
 
+Additional information about the format and tools is availabe in German:
+[Normbasierte Austauschschnittstelle (NAS)](https://de.wikipedia.org/wiki/Normbasierte_Austauschschnittstelle),
+[Amtliche Liegenschaftskatasterinformationssystem (ALKIS)](https://de.wikipedia.org/wiki/Amtliches_Liegenschaftskatasterinformationssystem),
+[Geographische Informationssysteme](https://wiki.ubuntuusers.de/Geographische_Informationssysteme/).
+
 ![QGIS](images/qgis.png)
 
 [Start page](index.md)
