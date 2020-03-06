@@ -51,4 +51,4 @@ This could be two datasets concerning the same topic, e.g. the field of traffic 
 Feel free to work on combining such datasets.
 But before publishing created data, check the underlying licenses!
 
-[Start page](/)
+[Start page](index)
