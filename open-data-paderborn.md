@@ -27,8 +27,6 @@ Additional information about the format and tools is availabe in German:
 
 &nbsp;
 
----
-
 [Start page](index.md)
 
 &nbsp;
