@@ -5,7 +5,7 @@ On the website, you can draw a polygon and enter your e-mail address for downloa
 
 ![Kreis Paderborn ALKIS](images/kreis-paderborn-alkis.png)
 
-## Data format
+### Data format
 
 The data is structured by the [Geography Markup Language (GML)](https://en.wikipedia.org/wiki/Geography_Markup_Language), a XML format.
 You can use the [QGIS (Wikipedia)](https://en.wikipedia.org/wiki/QGIS) software to explore it.
@@ -19,4 +19,16 @@ Additional information about the format and tools is availabe in German:
 
 ![QGIS](images/qgis.png)
 
+&nbsp;
+
+## Elections
+
+[Paderborn.de: Wahlen](https://www.paderborn.de/microsite/wahlen/wahlen/index.php)
+
+&nbsp;
+
+---
+
 [Start page](index.md)
+
+&nbsp;
