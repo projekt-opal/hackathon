@@ -3,6 +3,8 @@
 We focus on two types of data: **Open metadata records** and **mobility datasets**.  
 Data formats are described on page [formats](formats.md).
 
+&nbsp;
+
 ## Open metadata records
 
 Here you can access DCAT/RDF data:
@@ -30,6 +32,8 @@ LIMIT 100
 OFFSET 0
 ```
 
+&nbsp;
+
 ## Mobility datasets
 
 If you want to work with mobility datasets, you can explore and download them at different open data portals.
@@ -46,4 +50,8 @@ For data related to Paderborn have a look at [Open Data Paderborn](open-data-pad
 
 A RDF version of OpenStreetMap is available at [LinkedGeoData.org](http://linkedgeodata.org).
 
+&nbsp;
+
 [Start page](index.md)
+
+&nbsp;
