@@ -41,4 +41,8 @@ Have a look here:
 [EU Open Data portal](https://data.europa.eu/euodp/en/data/) and
 [other portals](https://github.com/projekt-opal/doc/wiki/Open-Data-Portals).
 
+For data related to Paderborn have a look at [Open Data Paderborn](open-data-paderborn.md).
+
+A RDF version of OpenStreetMap is available at [LinkedGeoData.org](http://linkedgeodata.org).
+
 [Start page](index.md)
