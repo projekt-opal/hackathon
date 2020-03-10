@@ -4,6 +4,8 @@ In the OPAL project, we're working with DCAT datasets in RDF format (see [format
 This is the basis of the hackathon.
 There are ideas for components that could be used in the project.
 
+&nbsp;
+
 ## Metadata + JavaScript Visualization
 
 Datasets may contain spatial information (geo coordinates).
@@ -26,6 +28,8 @@ LIMIT 100
 OFFSET 0
 ```
 
+&nbsp;
+
 ## Metadata + Data Science approach
 
 Maybe you already played around with some scientific approaches.
@@ -44,6 +48,8 @@ Note that some approaches already have been implemented, e.g.
 [data slicing](https://github.com/projekt-opal/ElasticTriples).
 You can also improve the implementations.
 
+&nbsp;
+
 ## Metadata + Metadata + Data + Data
 
 If you already found multiple datasets, that are related to each other, you could think about combining them into one dataset.
@@ -51,4 +57,8 @@ This could be two datasets concerning the same topic, e.g. the field of traffic 
 Feel free to work on combining such datasets.
 But before publishing created data, check the underlying licenses!
 
+&nbsp;
+
 [Start page](index.md)
+
+&nbsp;
