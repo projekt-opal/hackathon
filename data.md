@@ -40,6 +40,7 @@ Have a look here:
 [European Data Portal](https://www.europeandataportal.eu/),
 [EU Open Data portal](https://data.europa.eu/euodp/en/data/) and
 [other portals](https://github.com/projekt-opal/doc/wiki/Open-Data-Portals).
+If you can not find Paderborn data, try to search for "NRW" / "North Rhine-Westphalia" / "Nordrhein-Westfalen".
 
 For data related to Paderborn have a look at [Open Data Paderborn](open-data-paderborn.md).
 
