@@ -32,7 +32,8 @@ OFFSET 0
 
 ### Spatial slicing: Allow users to draw a bounding box
 
-Another task is to develop a spatial slicing component. In the available data, there are geo-coordinates for individual datasets. The goal of the spatial slicing is to get datasets, which are related to a selected region. To let users define a region, a JavaScript component is required, which allows users to draw a bounding box (rectangle or polygon) and therefore to specify a region. The geo-coordinates of a selected bounding box are the main objective of this task. Afterwards, the bounding box coordinates can be delivered to another component (probably [Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/geo-queries.html)).
+Another task is to develop a spatial slicing component. In the available data, there are geo-coordinates for individual datasets. The goal of the spatial slicing task is to get those datasets, which are related to a selected region. To let users define a region, a JavaScript component is required, which allows users to draw a bounding box (rectangle or polygon) and therefore to specify a region. Returning the geo-coordinates of a selected bounding box is the main objective of this task.  Afterwards, the bounding box coordinates can be delivered to another component (probably [Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/geo-queries.html)).
+Examples can be found at [OpenStreetMap Wiki: Bounding Box](https://wiki.openstreetmap.org/wiki/Bounding_Box)
 
 &nbsp;
 
