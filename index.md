@@ -4,7 +4,7 @@
 
 Day: Monday, **April 6th**, 2020  
 Location: **Remote**  
-~~Room: D1.338<~~ (Physical presence has been cancelled due to Corona)
+~~Room: D1.338~~ (Physical presence has been cancelled due to Corona)
 
 ### Participation
 
