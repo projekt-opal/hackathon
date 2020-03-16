@@ -3,7 +3,8 @@
 ### Date
 
 Day: Monday, **April 6th**, 2020  
-Room: [D1.338](https://www.openstreetmap.org/#map=19/51.70758/8.77196)
+Location: Remote  
+<strike>Room: D1.338</strike> (physical presence has been cancelled)
 
 ### Participation
 
