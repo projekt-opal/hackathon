@@ -3,8 +3,8 @@
 ### Date
 
 Day: Monday, **April 6th**, 2020  
-Location: Remote  
-<strike>Room: D1.338</strike> (physical presence has been cancelled)
+Location: **Remote**  
+~~Room: D1.338<~~ (Physical presence has been cancelled due to Corona)
 
 ### Participation
 
