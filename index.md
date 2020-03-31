@@ -11,7 +11,7 @@ Location: **Remote**
 
 * The participation is **open to all**
 * A **prize of 100 Euro** for the best solution will be awarded among UPB students participating in the contest. (Probably as [Hasentaler](https://www.hasentaler.de/shoppen/#gutscheine) coupons.)
-* Participating UPB students who submit a solution will receive a **confirmation of participation**
+* Participating UPB students who submit a solution will receive a **confirmation of participation**. The deadline for results is Tuesday, April 7th, 2020. We will provide an online form for result submission here.
 * Please join the [Matrix chat](chat.md) for communication
 
 ### Tasks
