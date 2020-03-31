@@ -33,7 +33,7 @@ You are free to choose any Matrix client. Here is an example for Riot Web:
 
 ## Video chat
 
-* If you are working in teams and need a video chat e.g. for sharing screens, we recommend [Jitsi](https://meet.jit.si/).
+* If you are working in teams and need a video chat (e.g. for sharing screens) we recommend [Jitsi](https://meet.jit.si/).
 
 ## Misc
 
