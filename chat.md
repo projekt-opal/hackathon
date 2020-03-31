@@ -21,14 +21,28 @@ You are free to choose any Matrix server. Here is an example for privacytools.io
 
 ### Join the chat
 
+You are free to choose any Matrix client. Here is an example for Riot Web:
+
 * Open [Riot Web](https://riot.im/app/)
 * Click on *Sign In*
 * Click on *Change* and fill in the server URL: `https://chat.privacytools.io`
 * Fill in your *Username* and *Password* and click on *Sign in*
-* Join the room `#opal-hackathon:privacytools.io`
+* Click on *Explore* and join the room `#opal-hackathon:privacytools.io`
+
+&nbsp;
+
+## Video chat
+
+* If you are working in teams and need a video chat e.g. for sharing screens, we recommend [Jitsi](https://meet.jit.si/).
 
 ## Misc
 
 * [Matrix.org](https://matrix.org/)
-* Matrix at [Wikipedia](https://en.wikipedia.org/wiki/Matrix_(protocol))
+* [Matrix at Wikipedia](https://en.wikipedia.org/wiki/Matrix_(protocol))
 * [Unofficial selection of public Matrix servers](https://www.hello-matrix.net/public_servers.php)
+
+&nbsp;
+
+[Start page](index.md)
+
+&nbsp;
