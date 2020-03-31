@@ -31,12 +31,9 @@ You are free to choose any Matrix client. Here is an example for Riot Web:
 
 &nbsp;
 
-## Video chat
-
-* If you are working in teams and need a video chat (e.g. for sharing screens) we recommend [Jitsi](https://meet.jit.si/).
-
 ## Misc
 
+* Video chat: If you are working in teams and need a video chat (e.g. for sharing screens) we recommend [Jitsi](https://meet.jit.si/).
 * [Matrix.org](https://matrix.org/)
 * [Matrix at Wikipedia](https://en.wikipedia.org/wiki/Matrix_(protocol))
 * [Unofficial selection of public Matrix servers](https://www.hello-matrix.net/public_servers.php)
