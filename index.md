@@ -3,15 +3,15 @@
 ### Date
 
 Day: Monday, **April 6th**, 2020  
-Time: **10.00** - **18.00**  
+Time: **10.00** - 18.00  
 Location: **Remote**
-~~Room: D1.338 (Physical presence has been cancelled due to Corona)~~
+~~(Room: D1.338 - physical presence has been cancelled due to Corona)~~
 
 ### Participation
 
-* The participation is open to all
-* A prize of 100 Euro for the best solution will be awarded among UPB students participating in the contest
-* Participating UPB students who submit a solution will receive a confirmation of participation
+* The participation is **open to all**
+* A **prize of 100 Euro** for the best solution will be awarded among UPB students participating in the contest
+* Participating UPB students who submit a solution will receive a **confirmation of participation**
 * Please join the [Matrix chat](chat.md) for communication
 
 ### Tasks
