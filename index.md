@@ -10,7 +10,7 @@ Location: **Remote**
 ### Participation
 
 * The participation is **open to all**
-* A **prize of 100 Euro** for the best solution will be awarded among UPB students participating in the contest
+* A **prize of 100 Euro** for the best solution will be awarded among UPB students participating in the contest. (Probably as [Hasentaler](https://www.hasentaler.de/shoppen/#gutscheine) coupons.)
 * Participating UPB students who submit a solution will receive a **confirmation of participation**
 * Please join the [Matrix chat](chat.md) for communication
 
