@@ -1,7 +1,7 @@
 # Chat
 
 We use Matrix for communication.
-To join the chat, you have to choose a client and to create an account first.
+To join the chat, you first have to choose a *client* and to *create an account*.
 
 ### Choose a Matrix client
 
@@ -10,14 +10,22 @@ To join the chat, you have to choose a client and to create an account first.
 
 ### Create a Matrix chat account
 
+You are free to choose any Matrix server. Here is an example for privacytools.io:
+
 * Open [Riot Web](https://riot.im/app/)
 * Click on *Create Account*
 * Click on *Advanced* / *Other*
 * Fill in the *Homeserver URL*: `https://chat.privacytools.io`
 * Fill in a *Username*, a *Password* and your *Email* address
+* Confirm your email address
 
 ### Join the chat
 
+* Open [Riot Web](https://riot.im/app/)
+* Click on *Sign In*
+* Click on *Change* and fill in the server URL: `https://chat.privacytools.io`
+* Fill in your *Username* and *Password* and click on *Sign in*
+* Join the room `#opal-hackathon:privacytools.io`
 
 ## Misc
 
