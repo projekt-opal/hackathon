@@ -44,7 +44,7 @@ That could for instance be a topic extraction or a statistical analysis.
 You are free to apply those approaches to the available metadata records.
 
 An idea is to first create a set of titles, descriptions and categories of existing datasets.
-As not for all datasets a category is set, this could become a supervised (machine learning) categorization task.
+As not for all datasets a category is set, this could become a supervised (machine learning) classification task.
 Use the complete datasets to create a model containing used words on the one hand and categories on the other hand.
 Based on comparisons of word vectors, categories can be set for datasets without categories.
 
