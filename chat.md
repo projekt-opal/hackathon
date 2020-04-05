@@ -1,6 +1,6 @@
 # Chat
 
-We use Matrix for communication.
+We use the Matrix room [`#opal-hackathon:privacytools.io`](https://matrix.to/#/!ZGgRBfnNYVKFqvlOlK:privacytools.io) for communication.
 To join the chat, you first have to choose a *client* and to *create an account*.
 
 ### Choose a Matrix client
