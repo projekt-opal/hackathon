@@ -37,6 +37,7 @@ You are free to choose any Matrix client. Here is an example for Riot Web:
 * [Matrix at Wikipedia](https://en.wikipedia.org/wiki/Matrix_(protocol))
 * [Unofficial selection of public Matrix servers](https://www.hello-matrix.net/public_servers.php)
 * Video chat: If you are working in teams and need a video chat (e.g. for sharing screens) we recommend [Jitsi](https://meet.jit.si/).
+* Notes: [Etherpad at Wikimedia](https://etherpad.wikimedia.org/) (e.g. [opendatahack Etherpad](https://etherpad.wikimedia.org/p/opendatahack)) and [Pastebin](https://pastebin.com/) can be used to share notes.
 
 &nbsp;
 
