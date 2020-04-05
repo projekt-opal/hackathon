@@ -24,6 +24,7 @@ DCAT is an RDF vocabulary which enables to describe datasets and related concept
 ## SPARQL (SPARQL Protocol and RDF Query Language)
 
 Like SQL for relational databases, SPARQL can be used to query RDF databases (triplestores). The specification can be found at [SPARQL 1.1 Query Language](https://www.w3.org/TR/sparql11-query/).
+Use SELECT to get lists and CONSTRUCT to get graphs.
 SPARQL examples are available at [data](data.md).
 
 &nbsp;
