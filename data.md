@@ -32,6 +32,25 @@ LIMIT 100
 OFFSET 0
 ```
 
+#### Construct a graph with titles and related download URLs of datasets
+
+```SPARQL
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+PREFIX dct: <http://purl.org/dc/terms/>
+
+CONSTRUCT {
+  ?dataset dct:title ?title .
+  ?dataset <http://example.org/hasUrl> ?url
+} WHERE {
+  ?dataset a dcat:Dataset .
+  ?dataset dct:title ?title .
+  ?dataset dcat:distribution ?distribution .
+  ?distribution dcat:downloadURL ?url .
+}
+LIMIT 100
+OFFSET 0
+```
+
 &nbsp;
 
 ## Mobility datasets
