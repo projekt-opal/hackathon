@@ -44,7 +44,7 @@ That could for instance be a topic extraction or a statistical analysis.
 You are free to apply those approaches to the available metadata records.
 
 An idea is to first create a set of titles, descriptions and categories of existing datasets.
-As not for all datasets a category is set, this could become a supervised (machine learning) classification task.
+As not for all datasets a category (called *theme* in DCAT) is set, this could become a supervised (machine learning) classification task.
 Use the complete datasets to create a model containing used words on the one hand and categories on the other hand.
 Based on comparisons of word vectors, categories can be set for datasets without categories.
 
@@ -62,6 +62,7 @@ You can also improve the implementations.
 If you already found multiple datasets, that are related to each other, you could think about combining them into one dataset.
 This could be two datasets concerning the same topic, e.g. the field of traffic or the same time period or the same city.
 Feel free to work on combining such datasets.
+For instance, extract and combine parts of [Open Data Paderborn](open-data-paderborn.md).
 But before publishing created data, check the underlying licenses!
 
 &nbsp;
