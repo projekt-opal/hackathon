@@ -24,5 +24,5 @@ OpenLayers.Lang.en = OpenLayers.Util.applyDefaults(OpenLayers.Lang.en, {
     'infoResult': 'Click into box to edit, abort with click on map.\x3cbr\x3e'
                   + 'Select output with a single click. New box with "draw".',
     'titleResult': 'box:',
-    'draw': 'draw'
+    'draw': 'Select region'
 });

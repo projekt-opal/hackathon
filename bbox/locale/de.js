@@ -24,5 +24,5 @@ OpenLayers.Lang["de"] = OpenLayers.Util.applyDefaults(OpenLayers.Lang["de"], {
     'infoResult': 'Zum Bearbeiten in Rahmen klicken, Beenden mit Klick auf Karte.\x3cbr\x3e'
                   + 'Ausgabe mit einfachem Klick auswählen. Neuer Rahmen mit "zeichnen".',
     'titleResult': 'rahmen:',
-    'draw': 'zeichnen'
+    'draw': 'Bereich auswählen'
 });

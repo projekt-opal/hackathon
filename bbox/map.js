@@ -11,8 +11,11 @@
         wkt.extract['point'] = function(point) {
             return bbox.toFixed(point.x) + ' ' + bbox.toFixed(point.y);
         };
-
         if (bounds) {
+
+            // Just display coordinates in window
+            alert(bounds);
+/*
             var infoHtml = '';
 
             // formats
@@ -44,12 +47,14 @@
             document.getElementById("info-start").className = 'hidden';
             document.getElementById("info-header").className = '';
             document.getElementById("info-result").innerHTML = infoHtml;
+*/
         } else {
+/*
             document.getElementById("info-start").className = '';
             document.getElementById("info-header").className = 'hidden';
             document.getElementById("info-result").innerHTML = '';
+*/
         }
-
     }
 
     function drawActivate() {
@@ -59,7 +64,9 @@
     }
 
     function drawDeactivate() {
+/*
         OpenLayers.Element.removeClass(document.getElementById('info-border'), 'hidden');
+*/
         document.getElementById('draw-button').className = 'default';
     }
 
