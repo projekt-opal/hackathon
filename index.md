@@ -9,7 +9,8 @@ Location: **Remote**
 
 ### Updates
 
- * If you have problems connecting to the server, please try a client other than Riot Web (see [Matrix chat](chat.md)).
+ * [Etherpad](https://etherpad.wikimedia.org/p/opendatahack) to collect notes from the chat [11:20]
+ * If you have problems connecting to the server, please try a client other than Riot Web (see [Matrix chat](chat.md)) [10:48]
   
 ### Participation
 
