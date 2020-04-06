@@ -1,16 +1,16 @@
 ## Hackathon
 
+### Updates
+
+ * [Etherpad](https://etherpad.wikimedia.org/p/opendatahack) to collect notes from the chat [11:20]
+ * If you have problems connecting to the server, please try a client other than Riot Web (see [Matrix chat](chat.md)) [10:48]
+
 ### Date
 
 Day: Monday, **April 6th**, 2020  
 Time: **10.00** - 18.00  
 Location: **Remote**
 ~~(Room: D1.338, physical presence has been cancelled due to Corona)~~
-
-### Updates
-
- * [Etherpad](https://etherpad.wikimedia.org/p/opendatahack) to collect notes from the chat [11:20]
- * If you have problems connecting to the server, please try a client other than Riot Web (see [Matrix chat](chat.md)) [10:48]
   
 ### Participation
 
