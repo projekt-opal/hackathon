@@ -8,6 +8,7 @@ Data access is described at page [data](data.md).
 ## RDF (Resource Description Framework)
 
 We focus on graphs consisting of RDF data. The main concepts are described at [RDF 1.1 Primer](https://www.w3.org/TR/rdf11-primer/).
+There are some [openHPI online lectures](https://open.hpi.de/courses?q=Harald%20Sack) about the Semantic Web; find them by searching for *Harald Sack*.
 
 ![RDF example](https://www.w3.org/TR/rdf11-primer/example-graph-iris.jpg)
 
