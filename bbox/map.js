@@ -41,7 +41,6 @@
                 infoHtml += '</td></tr>';
             }
             infoHtml += '</table>';
-
             document.getElementById("info-start").className = 'hidden';
             document.getElementById("info-header").className = '';
             document.getElementById("info-result").innerHTML = infoHtml;
@@ -122,6 +121,13 @@
             styleMap : bbox.createStyleMap()
         });
         map.addLayer(bboxLayer);
+
+        // center germany
+        map.setCenter(
+            new OpenLayers.LonLat(9.9,51.0).transform(
+                new OpenLayers.Projection("EPSG:4326"),
+                    map.getProjectionObject()), 7
+        );    
 
         // draw control(s)
         bbox.addControls(map, bboxLayer, {
