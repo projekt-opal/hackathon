@@ -2,6 +2,7 @@
 
 ### Updates
 
+ * The [form for submission of results](https://umfragen.uni-paderborn.de/index.php/679666?lang=en) is online [13:55]
  * [Etherpad](https://etherpad.wikimedia.org/p/opendatahack) to collect notes from the chat [11:20]
  * If you have problems connecting to the server, please try a client other than Riot Web (see [Matrix chat](chat.md)) [10:48]
 
@@ -19,7 +20,7 @@ Location: **Remote**
 * Please join the [Matrix chat](chat.md) for communication.  
 * Add yourself and your ideas to the [ideas and people spreadsheet](https://docs.google.com/spreadsheets/d/1ZFFG08fBxPzImB6emwxi5YGTfPWF4PtZOEKVIVNhG88/)
 * A **prize worth 100 Euro** for the best solution will be awarded among UPB students participating in the contest. (Preferably as [Hasentaler](https://www.hasentaler.de/online-angebote/#gutscheine) coupons.)
-* Participating UPB students who submit a solution will receive a **confirmation of participation**. The deadline for results is Tuesday, April 7th, 2020. We will provide an online form for result submission here.
+* Participating UPB students who submit a solution will receive a **confirmation of participation**. The deadline for results is Tuesday, April 7th, 2020. Please use the [form for results submission](https://umfragen.uni-paderborn.de/index.php/679666?lang=en).
 
 ### Tasks
 
