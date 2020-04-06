@@ -3,7 +3,7 @@
 We use the Matrix room [`#opal-hackathon:privacytools.io`](https://matrix.to/#/!ZGgRBfnNYVKFqvlOlK:privacytools.io) for communication.
 To join the chat, you first have to choose a *client* and to *create an account*.
 
-**UPDATE: If you have problems connecting to the server, please try a [clients](https://matrix.org/clients/) other than Riot Web**.
+**UPDATE: If you have problems connecting to the server, please try a [client](https://matrix.org/clients/) other than Riot Web**.
 
 ### Choose a Matrix client
 
