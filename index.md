@@ -7,11 +7,15 @@ Time: **10.00** - 18.00
 Location: **Remote**
 ~~(Room: D1.338, physical presence has been cancelled due to Corona)~~
 
+### Updates
+
+ * If you have problems connecting to the server, please try a client other than Riot Web (see [Matrix chat](chat.md)).
+  
 ### Participation
 
 * The participation is **open to all**. No registration is required.
 * [Introduction video](https://vimeo.com/404368209)
-* Please join the [Matrix chat](chat.md) for communication
+* Please join the [Matrix chat](chat.md) for communication.  
 * Add yourself and your ideas to the [ideas and people spreadsheet](https://docs.google.com/spreadsheets/d/1ZFFG08fBxPzImB6emwxi5YGTfPWF4PtZOEKVIVNhG88/)
 * A **prize worth 100 Euro** for the best solution will be awarded among UPB students participating in the contest. (Preferably as [Hasentaler](https://www.hasentaler.de/online-angebote/#gutscheine) coupons.)
 * Participating UPB students who submit a solution will receive a **confirmation of participation**. The deadline for results is Tuesday, April 7th, 2020. We will provide an online form for result submission here.
