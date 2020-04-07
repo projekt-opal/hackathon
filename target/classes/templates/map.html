@@ -1,0 +1,91 @@
+
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>Dataset Visualization</title>
+<script async defer
+	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD4GtH6Ph_1EDVgfxzUS44DXWOsl-feuhw&callback=initMap">
+	
+</script>
+
+<style type="text/css">
+
+/* Optional: Makes the sample page fill the window. */
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+</style>
+
+</head>
+
+<body>
+	<!--<div th:each="dataset: ${datasets}">
+
+		<div th:text="${dataset.DatasetURI}"></div>
+		<div th:each="coordinates: ${dataset.latlong}">
+
+			<div th:each="coordinate: ${coordinates}">
+				<p th:text="${coordinate}"></p>
+			</div>
+		</div>
+
+	</div>  -->
+
+	<div th:each="dataset: ${datasets}" th:id="'map'+${dataset.id}"
+		style="height: 100%;"></div>
+
+	<script th:inline="javascript">
+	  var maps = [];
+	  var polygons = [];
+	  var coordinates = [];
+	  var markers = [];
+	  
+	  function initMap() {
+		
+		var list = JSON.parse(JSON.stringify([[${datasets}]]));
+		console.log(list);
+			for(var i=0; i<1; i++)
+			{
+
+				maps[list[i].id] = new google.maps.Map(document.getElementById('map'+list[i].id), {
+			          zoom: 5,
+			          center: {lat: parseFloat(list[i].centre_coordinate[0]), lng: parseFloat(list[i].centre_coordinate[1])},
+			          mapTypeId: 'terrain'
+			        });
+				
+				 // Define the LatLng coordinates for the polygon's path.
+				 coordinates[list[i].id]= new Array();
+				 for(var j=0; j<list[i].latlong.length; j++){
+					 coordinates[list[i].id].push({ lat: parseFloat(list[i].latlong[j][0]), lng: parseFloat(list[i].latlong[j][1]) });
+				 }
+				 
+		          
+				// Construct the polygon.
+				polygons[list[i].id] = new google.maps.Polygon({
+		          paths: coordinates[list[i].id],
+		          strokeColor: '#FF0000',
+		          strokeOpacity: 0.8,
+		          strokeWeight: 2,
+		          fillColor: '#FF0000',
+		          fillOpacity: 0.35
+		        });
+				polygons[list[i].id].setMap(maps[list[i].id]);
+
+				window.param = list[i];
+				polygons[list[i].id].addListener('click', function() {
+					alert("Dataset URI ="+param.datasetURI);
+				  });
+			
+				console.log(coordinates[list[i].id]);
+			}
+			
+		}
+	  	
+	</script>
+
+</body>
+
+</html>

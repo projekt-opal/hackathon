@@ -1,0 +1,1709 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+
+<http://projekt-opal.de/distribution/https___europeandataportal_eu_set_distribution_03603d24_0e45_4bcd_8599_cf95e1448df3>
+        a                dcat:Distribution ;
+        dct:description  "available as CSV" ;
+        dct:format       "CSV" ;
+        dct:license      <https://creativecommons.org/licenses/by/4.0/> ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:title        "Download CSV" ;
+        dcat:accessURL   <http://atlas.marine.ie/midata/EnergyResourcesExploration/Exploration_Wells_Irish_Offshore.csv.zip> .
+
+<http://projekt-opal.de/measurement177045>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/MultipleSerializations> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement176830>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Categorization> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177639>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Timeliness> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177899>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/LinkedDataRepresentation> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177541>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/MultipleSerializations> ;
+        <http://www.w3.org/ns/dqv#value>
+                "1.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement175846>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/LinkedDataRepresentation> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://org.belgif.be/id/cbe/site/2_146_814_391>
+        a       <http://xmlns.com/foaf/0.1/Organization> ;
+        <http://xmlns.com/foaf/0.1/homepage>
+                <http://statbel.fgov.be/> ;
+        <http://xmlns.com/foaf/0.1/name>
+                "Statbel"@en , "Statbel"@nl , "Statbel"@fr .
+
+<http://projekt-opal.de/measurement178252>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/LinkedDataRepresentation> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement176557>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/LinkedDataRepresentation> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/distribution/https___europeandataportal_eu_set_distribution_a47b41f0_7aab_4b6a_b940_5708441c3ecb>
+        a               dcat:Distribution ;
+        dct:format      "CSV" ;
+        dct:title       "v SR spáchanej cudzincami - podľa štátnej príslušnosti" ;
+        <http://www.w3.org/ns/adms#status>
+                "public" ;
+        dcat:accessURL  "https://data.gov.sk/dataset/003bd3a8-e5ad-4f09-80ab-cff6ee95354a/resource/8f69352f-e6a9-40ad-8afb-065fe6473d9c/download/6kriminalitaspachanacudzincami631.12.2013.csv" .
+
+<http://www.ideandalucia.es/wms/urbana2000?>
+        a          <http://xmlns.com/foaf/0.1/Document> ;
+        dct:title  "Cartografía Urbana 1:2000"@es .
+
+<http://projekt-opal.de/measurement178846>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/KnownLicense> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/distribution/https___europeandataportal_eu_set_distribution_bce471de_7025_4be8_9142_faaf2b4e31ef>
+        a                dcat:Distribution ;
+        dct:description  "Отчет за касовото изпълнение на сметике за СЕС-КСФ на Община Венец към 31.05.2017 г."@bg ;
+        dct:format       <http://publications.europa.eu/resource/authority/file-type/CSV> ;
+        dct:license      []  ;
+        dct:license      []  ;
+        dct:license      []  ;
+        dct:title        "Отчет за касовото изпълнение на сметике за СЕС-КСФ на Община Венец към 31.05.2017 г."@bg ;
+        dcat:accessURL   <http://opendata.government.bg/dataset/3f56e842-7bf6-4e84-b5be-97e80d761bed/resource/90f7e375-bc91-43b2-a55b-594b56da8cad/download/ib1201757702ksf.xls> .
+
+<http://projekt-opal.de/measurement177008>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Categorization> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177268>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/KnownLicense> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://www.stats.environnement.developpement-durable.gouv.fr/Eider/selection_series_popup.do?calcul=yes&reset=&serieCode=EA24&geoCode=11175&geoCode=11177&geoCode=11178&geoCode=11191&geoCode=11192&geoCode=11193&geoCode=11194&geoCode=11195&geoCode=12108&geoCode=12110&geoCode=12151&geoCode=12152&geoCode=12202&geoCode=12260&geoCode=12280&geoCode=12327&geoCode=12376&geoCode=12418&geoCode=12428&geoCode=12436&geoCode=12437&geoCode=12441&geoCode=12445&geoCode=12514&geoCode=12550&geoCode=12561&geoCode=12621&geoCode=12658&geoCode=12671&geoCode=12689&geoCode=13159&geoCode=13162&geoCode=14154&geoCode=14155&geoCode=14157&geoCode=14188&geoCode=14267&geoCode=14268&geoCode=14325&geoCode=14339&geoCode=14370&geoCode=14390&geoCode=15244&geoCode=15249&geoCode=15253&geoCode=15272&geoCode=15285&geoCode=15322&geoCode=15329&geoCode=15335&geoCode=15356&geoCode=15416&geoCode=15417&geoCode=15479&geoCode=15486&geoCode=17224&geoCode=17233&geoCode=17240&geoCode=17247&geoCode=17264&geoCode=17309&geoCode=17312&geoCode=17331&geoCode=17332&geoCode=17346&geoCode=17365&geoCode=17381&geoCode=17382&geoCode=17419&geoCode=17423&geoCode=17487&geoCode=18201&geoCode=18207&geoCode=18226&geoCode=18238&geoCode=18242&geoCode=18269&geoCode=18273&geoCode=18274&geoCode=18303&geoCode=18315&geoCode=18343&geoCode=18363&geoCode=19111&geoCode=19130&geoCode=19134&geoCode=19148&geoCode=19166&geoCode=19304&geoCode=19305&geoCode=19306&geoCode=19313&geoCode=19383&geoCode=19384&geoCode=1942A&geoCode=1942B&geoCode=111&geoCode=121&geoCode=122&geoCode=123&geoCode=124&geoCode=125&geoCode=126&geoCode=131&geoCode=141&geoCode=142&geoCode=143&geoCode=152&geoCode=153&geoCode=154&geoCode=172&geoCode=173&geoCode=174&geoCode=182&geoCode=183&geoCode=191&geoCode=193&geoCode=194&geoCode=197>
+        a       <http://xmlns.com/foaf/0.1/Document> .
+
+<http://projekt-opal.de/dataset/https___europeandataportal_eu_set_data__ee8b1914_39ce_46ed_babf_0d0dc64fb67f_>
+        a                  dcat:Dataset ;
+        dct:conformsTo     [ dct:issued  "2008-12-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+                             dct:title   "Komisjoni määrus (EÜ) nr 1205/2008, 3. detsember 2008, millega rakendatakse Euroopa Parlamendi ja nõukogu direktiivi 2007/2/EÜ seoses metaandmetega"@et
+                           ] ;
+        dct:conformsTo     [ dct:issued  "2008-12-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+                             dct:title   "Komisjoni määrus (EÜ) nr 1205/2008, 3. detsember 2008, millega rakendatakse Euroopa Parlamendi ja nõukogu direktiivi 2007/2/EÜ seoses metaandmetega"@et
+                           ] ;
+        dct:description    "Veepoliitika raamdirektiivi aruandlusüksusi ning nende kohta käivaid andmeid koondav andmekogu."@et ;
+        dct:identifier     "KAUR_VRD" ;
+        dct:language       <http://publications.europa.eu/resource/authority/language/EST> ;
+        dct:modified       "2012-03-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        dct:provenance     [ a       dct:ProvenanceStatement ;
+                             <http://www.w3.org/2000/01/rdf-schema#label>
+                                     "NA"@et
+                           ] ;
+        dct:provenance     [ a       dct:ProvenanceStatement ;
+                             <http://www.w3.org/2000/01/rdf-schema#label>
+                                     "NA"@et
+                           ] ;
+        dct:spatial        [ a       dct:Location ;
+                             <http://www.w3.org/ns/locn#geometry>
+                                     "POLYGON((21.77 59.68,28.21 59.68,28.21 57.47,21.77 57.47,21.77 59.68))"^^<http://www.openlinksw.com/schemas/virtrdf#Geometry> , "<gml:Envelope srsName=\"http://www.opengis.net/def/EPSG/0/4326\"><gml:lowerCorner>57.47 21.77</gml:lowerCorner><gml:upperCorner>59.68 28.21</gml:upperCorner></gml:Envelope>"^^<http://www.opengis.net/ont/geosparql#gmlLiteral>
+                           ] ;
+        dct:spatial        [ a       dct:Location ;
+                             <http://www.w3.org/ns/locn#geometry>
+                                     "POLYGON((21.77 59.68,28.21 59.68,28.21 57.47,21.77 57.47,21.77 59.68))"^^<http://www.openlinksw.com/schemas/virtrdf#Geometry> , "<gml:Envelope srsName=\"http://www.opengis.net/def/EPSG/0/4326\"><gml:lowerCorner>57.47 21.77</gml:lowerCorner><gml:upperCorner>59.68 28.21</gml:upperCorner></gml:Envelope>"^^<http://www.opengis.net/ont/geosparql#gmlLiteral>
+                           ] ;
+        dct:title          "Eesti veepoliitika raamdirektiivi andmekogu, vesikonnad"@et ;
+        dcat:contactPoint  [ a       <http://www.w3.org/2006/vcard/ns#Organization> ;
+                             <http://www.w3.org/2006/vcard/ns#hasAddress>
+                                     []  ;
+                             <http://www.w3.org/2006/vcard/ns#hasEmail>
+                                     <mailto:kaur@envir.ee> ;
+                             <http://www.w3.org/2006/vcard/ns#organization-name>
+                                     "Keskkonnaagentuur"
+                           ] ;
+        dcat:contactPoint  [ a       <http://www.w3.org/2006/vcard/ns#Organization> ;
+                             <http://www.w3.org/2006/vcard/ns#hasAddress>
+                                     []  ;
+                             <http://www.w3.org/2006/vcard/ns#hasEmail>
+                                     <mailto:kaur@envir.ee> ;
+                             <http://www.w3.org/2006/vcard/ns#organization-name>
+                                     "Keskkonnaagentuur"
+                           ] ;
+        dcat:keyword       "Üldplaneering/piirangu-/reguleeritud tsoonid ja aruandlusüksused"@et , "pinnaveekogum"@et , "Directive 2000/60/EC"@et , "seisuveekogum"@et , "INSPIRE"@et , "põhjaveekogum"@et , "vesikond"@et ;
+        dcat:theme         <http://publications.europa.eu/resource/authority/data-theme/JUST> , <http://eurovoc.europa.eu/100145> ;
+        <http://www.w3.org/ns/dqv#hasQualityMeasurement>
+                <http://projekt-opal.de/measurement178630> , <http://projekt-opal.de/measurement178631> , <http://projekt-opal.de/measurement178632> , <http://projekt-opal.de/measurement178627> , <http://projekt-opal.de/measurement178628> , <http://projekt-opal.de/measurement178633> , <http://projekt-opal.de/measurement178629> .
+
+<http://projekt-opal.de/measurement177170>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Description> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177504>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Timeliness> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement175475>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/MultipleSerializations> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement175809>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/LinkedDataRepresentation> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177764>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/LinkedDataRepresentation> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement178215>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/MultipleSerializations> ;
+        <http://www.w3.org/ns/dqv#value>
+                "4.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement175711>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Categorization> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement176186>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/ContactUrl> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement178475>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Description> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement175971>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/LinkedDataRepresentation> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement178809>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/ContactUrl> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement176422>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/ContactUrl> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement178711>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Description> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://geonavsct.partout.it/INVA/component/GlobalPage/repertorio.asp?metadato=MTD239N0010>
+        a       <http://xmlns.com/foaf/0.1/Document> .
+
+<http://projekt-opal.de/measurement176682>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Description> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177133>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/LinkedDataRepresentation> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement175438>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/KnownLicense> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<https://www.juntadeandalucia.es/institutodeestadisticaycartografia/DERA/g12.htm>
+        a                <http://xmlns.com/foaf/0.1/Document> ;
+        dct:description  "Acceso a los datos para su descarga"@es .
+
+<http://projekt-opal.de/measurement177393>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/MultipleSerializations> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177727>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/MultipleSerializations> ;
+        <http://www.w3.org/ns/dqv#value>
+                "4.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/distribution/https___europeandataportal_eu_set_distribution_9b2d30f9_33f0_4232_8b63_a254af13a83c>
+        a               dcat:Distribution ;
+        dct:format      "CSV" ;
+        dct:language    "ger" ;
+        dct:title       "Rechnungsabschluss Freistadt 2006 (Statistik Austria)" ;
+        dcat:accessURL  <https://www.offenerhaushalt.at/data/download/40601_2006_STA_RA> .
+
+<http://projekt-opal.de/measurement175698>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Description> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177987>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/ContactUrl> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement176149>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/LinkedDataRepresentation> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/dataset/https___europeandataportal_eu_set_data__e03628e4_1b46_4b41_8427_784d1c13f4b0_>
+        a                  dcat:Dataset ;
+        dct:conformsTo     [ dct:modified  "2012-07-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+                             dct:title     "INSPIRE Data Specification on Elevation"@fr
+                           ] ;
+        dct:conformsTo     [ dct:type  <http://inspire.ec.europa.eu/metadata-codelist/SpatialReferenceSystem> ;
+                             <http://www.w3.org/2004/02/skos/core#inScheme>
+                                     []  ;
+                             <http://www.w3.org/2004/02/skos/core#prefLabel>
+                                     "2192"@fr
+                           ] ;
+        dct:conformsTo     [ dct:type  <http://inspire.ec.europa.eu/metadata-codelist/SpatialReferenceSystem> ;
+                             <http://www.w3.org/2004/02/skos/core#inScheme>
+                                     []  ;
+                             <http://www.w3.org/2004/02/skos/core#prefLabel>
+                                     "2192"@fr
+                           ] ;
+        dct:conformsTo     [ dct:modified  "2012-07-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+                             dct:title     "INSPIRE Data Specification on Elevation"@fr
+                           ] ;
+        dct:conformsTo     [ dct:modified  "2012-07-09"^^<http://www.w3.org/2001/XMLSchema#date> ;
+                             dct:title     "INSPIRE Data Specification on Elevation"@fr
+                           ] ;
+        dct:conformsTo     [ dct:type  <http://inspire.ec.europa.eu/metadata-codelist/SpatialReferenceSystem> ;
+                             <http://www.w3.org/2004/02/skos/core#inScheme>
+                                     []  ;
+                             <http://www.w3.org/2004/02/skos/core#prefLabel>
+                                     "2192"@fr
+                           ] ;
+        dct:description    "Digitalisation du trait de côte sur les falaises crayeuse du Pays de Caux à partir de l'analyse de photographies aériennes, de Fécamp à Saint-Pierre-en-Port, entre 1930 et 2008."@fr ;
+        dct:identifier     "{C86C8B9C-4292-4A50-B521-C71CF9A64C9D}" ;
+        dct:issued         "2008-06-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        dct:language       <http://publications.europa.eu/resource/authority/language/ENG> ;
+        dct:provenance     [ a       dct:ProvenanceStatement ;
+                             <http://www.w3.org/2000/01/rdf-schema#label>
+                                     "Géoréférencement de photographies aériennes et utilisation de photographies anciennes: \n- de Fécamp : 1903, 1944, 1957, 1976, 2008 ; \n- des Petites Dalles : 1903, 1947, 1977, 2008 ;\n- de Saint-Pierre-en-Port : 1935, 2008.\nLe calage des photographies aériennes a été effectué sur l'ortophotoplan de 2000. \nLe trait de côte a ensuite été digitalisé.\nÉtude réalisée par Benjamin DAVID (étudiant master 1)"@fr
+                           ] ;
+        dct:provenance     [ a       dct:ProvenanceStatement ;
+                             <http://www.w3.org/2000/01/rdf-schema#label>
+                                     "Géoréférencement de photographies aériennes et utilisation de photographies anciennes: \n- de Fécamp : 1903, 1944, 1957, 1976, 2008 ; \n- des Petites Dalles : 1903, 1947, 1977, 2008 ;\n- de Saint-Pierre-en-Port : 1935, 2008.\nLe calage des photographies aériennes a été effectué sur l'ortophotoplan de 2000. \nLe trait de côte a ensuite été digitalisé.\nÉtude réalisée par Benjamin DAVID (étudiant master 1)"@fr
+                           ] ;
+        dct:provenance     [ a       dct:ProvenanceStatement ;
+                             <http://www.w3.org/2000/01/rdf-schema#label>
+                                     "Géoréférencement de photographies aériennes et utilisation de photographies anciennes: \n- de Fécamp : 1903, 1944, 1957, 1976, 2008 ; \n- des Petites Dalles : 1903, 1947, 1977, 2008 ;\n- de Saint-Pierre-en-Port : 1935, 2008.\nLe calage des photographies aériennes a été effectué sur l'ortophotoplan de 2000. \nLe trait de côte a ensuite été digitalisé.\nÉtude réalisée par Benjamin DAVID (étudiant master 1)"@fr
+                           ] ;
+        dct:spatial        [ a       dct:Location ;
+                             <http://www.w3.org/ns/locn#geometry>
+                                     "<gml:Envelope srsName=\"http://www.opengis.net/def/EPSG/0/4326\"><gml:lowerCorner>49.7437 0.3494</gml:lowerCorner><gml:upperCorner>49.8459 0.5528</gml:upperCorner></gml:Envelope>"^^<http://www.opengis.net/ont/geosparql#gmlLiteral> , "POLYGON((0.3494 49.8459,0.5528 49.8459,0.5528 49.7437,0.3494 49.7437,0.3494 49.8459))"^^<http://www.openlinksw.com/schemas/virtrdf#Geometry>
+                           ] ;
+        dct:spatial        [ a       dct:Location ;
+                             <http://www.w3.org/ns/locn#geometry>
+                                     "<gml:Envelope srsName=\"http://www.opengis.net/def/EPSG/0/4326\"><gml:lowerCorner>49.7437 0.3494</gml:lowerCorner><gml:upperCorner>49.8459 0.5528</gml:upperCorner></gml:Envelope>"^^<http://www.opengis.net/ont/geosparql#gmlLiteral> , "POLYGON((0.3494 49.8459,0.5528 49.8459,0.5528 49.7437,0.3494 49.7437,0.3494 49.8459))"^^<http://www.openlinksw.com/schemas/virtrdf#Geometry>
+                           ] ;
+        dct:spatial        [ a       dct:Location ;
+                             <http://www.w3.org/ns/locn#geometry>
+                                     "<gml:Envelope srsName=\"http://www.opengis.net/def/EPSG/0/4326\"><gml:lowerCorner>49.7437 0.3494</gml:lowerCorner><gml:upperCorner>49.8459 0.5528</gml:upperCorner></gml:Envelope>"^^<http://www.opengis.net/ont/geosparql#gmlLiteral> , "POLYGON((0.3494 49.8459,0.5528 49.8459,0.5528 49.7437,0.3494 49.7437,0.3494 49.8459))"^^<http://www.openlinksw.com/schemas/virtrdf#Geometry>
+                           ] ;
+        dct:subject        <http://inspire.ec.europa.eu/metadata-codelist/TopicCategory/elevation> ;
+        dct:title          "Analyse de l'évolution des falaises crayeuses du Pays de Caux de Fécamp à Saint-Pierre-en-Port entre 1903 et 2008"@fr ;
+        dct:type           <http://inspire.ec.europa.eu/metadata-codelist/ResourceType/series> ;
+        dcat:contactPoint  [ a       <http://www.w3.org/2006/vcard/ns#Organization> ;
+                             <http://www.w3.org/2006/vcard/ns#hasAddress>
+                                     []  ;
+                             <http://www.w3.org/2006/vcard/ns#hasEmail>
+                                     <mailto:stephane.costa@unicaen.fr> ;
+                             <http://www.w3.org/2006/vcard/ns#organization-name>
+                                     "Laboratoire LETG-Caen Geophen"
+                           ] ;
+        dcat:contactPoint  [ a       <http://www.w3.org/2006/vcard/ns#Organization> ;
+                             <http://www.w3.org/2006/vcard/ns#hasAddress>
+                                     []  ;
+                             <http://www.w3.org/2006/vcard/ns#hasEmail>
+                                     <mailto:pauline.letortu@unicaen.fr> ;
+                             <http://www.w3.org/2006/vcard/ns#organization-name>
+                                     "Laboratoire LETG-Caen Geophen"
+                           ] ;
+        dcat:contactPoint  [ a       <http://www.w3.org/2006/vcard/ns#Organization> ;
+                             <http://www.w3.org/2006/vcard/ns#hasAddress>
+                                     []  ;
+                             <http://www.w3.org/2006/vcard/ns#hasEmail>
+                                     <mailto:pauline.letortu@unicaen.fr> ;
+                             <http://www.w3.org/2006/vcard/ns#organization-name>
+                                     "Laboratoire LETG-Caen Geophen"
+                           ] ;
+        dcat:contactPoint  [ a       <http://www.w3.org/2006/vcard/ns#Organization> ;
+                             <http://www.w3.org/2006/vcard/ns#hasAddress>
+                                     []  ;
+                             <http://www.w3.org/2006/vcard/ns#hasEmail>
+                                     <mailto:stephane.costa@unicaen.fr> ;
+                             <http://www.w3.org/2006/vcard/ns#organization-name>
+                                     "Laboratoire LETG-Caen Geophen"
+                           ] ;
+        dcat:contactPoint  [ a       <http://www.w3.org/2006/vcard/ns#Organization> ;
+                             <http://www.w3.org/2006/vcard/ns#hasAddress>
+                                     []  ;
+                             <http://www.w3.org/2006/vcard/ns#hasEmail>
+                                     <mailto:stephane.costa@unicaen.fr> ;
+                             <http://www.w3.org/2006/vcard/ns#organization-name>
+                                     "Laboratoire LETG-Caen Geophen"
+                           ] ;
+        dcat:contactPoint  [ a       <http://www.w3.org/2006/vcard/ns#Organization> ;
+                             <http://www.w3.org/2006/vcard/ns#hasAddress>
+                                     []  ;
+                             <http://www.w3.org/2006/vcard/ns#hasEmail>
+                                     <mailto:pauline.letortu@unicaen.fr> ;
+                             <http://www.w3.org/2006/vcard/ns#organization-name>
+                                     "Laboratoire LETG-Caen Geophen"
+                           ] ;
+        dcat:keyword       "seine maritime"@fr , "trait de côte"@fr , "géoréférencement"@fr ;
+        dcat:theme         <http://eurovoc.europa.eu/100155> , <http://inspire.ec.europa.eu/theme/el> , <http://publications.europa.eu/resource/authority/data-theme/ENVI> ;
+        dcat:theme         [ a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+                             <http://www.w3.org/2004/02/skos/core#inScheme>
+                                     []  ;
+                             <http://www.w3.org/2004/02/skos/core#prefLabel>
+                                     "évolution"
+                           ] ;
+        dcat:theme         [ a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+                             <http://www.w3.org/2004/02/skos/core#inScheme>
+                                     []  ;
+                             <http://www.w3.org/2004/02/skos/core#prefLabel>
+                                     "évolution"
+                           ] ;
+        dcat:theme         [ a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+                             <http://www.w3.org/2004/02/skos/core#inScheme>
+                                     []  ;
+                             <http://www.w3.org/2004/02/skos/core#prefLabel>
+                                     "falaise"
+                           ] ;
+        dcat:theme         [ a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+                             <http://www.w3.org/2004/02/skos/core#inScheme>
+                                     []  ;
+                             <http://www.w3.org/2004/02/skos/core#prefLabel>
+                                     "érosion côtière"
+                           ] ;
+        dcat:theme         [ a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+                             <http://www.w3.org/2004/02/skos/core#inScheme>
+                                     []  ;
+                             <http://www.w3.org/2004/02/skos/core#prefLabel>
+                                     "évolution"
+                           ] ;
+        dcat:theme         [ a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+                             <http://www.w3.org/2004/02/skos/core#inScheme>
+                                     []  ;
+                             <http://www.w3.org/2004/02/skos/core#prefLabel>
+                                     "érosion côtière"
+                           ] ;
+        dcat:theme         [ a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+                             <http://www.w3.org/2004/02/skos/core#inScheme>
+                                     []  ;
+                             <http://www.w3.org/2004/02/skos/core#prefLabel>
+                                     "falaise"
+                           ] ;
+        dcat:theme         [ a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+                             <http://www.w3.org/2004/02/skos/core#inScheme>
+                                     []  ;
+                             <http://www.w3.org/2004/02/skos/core#prefLabel>
+                                     "falaise"
+                           ] ;
+        dcat:theme         [ a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+                             <http://www.w3.org/2004/02/skos/core#inScheme>
+                                     []  ;
+                             <http://www.w3.org/2004/02/skos/core#prefLabel>
+                                     "érosion côtière"
+                           ] ;
+        <http://www.w3.org/ns/dqv#hasQualityMeasurement>
+                <http://projekt-opal.de/measurement176936> , <http://projekt-opal.de/measurement176934> , <http://projekt-opal.de/measurement176939> , <http://projekt-opal.de/measurement176937> , <http://projekt-opal.de/measurement176935> , <http://projekt-opal.de/measurement176938> , <http://projekt-opal.de/measurement176933> ;
+        <http://www.w3.org/ns/prov#wasUsedBy>
+                [ a       <http://www.w3.org/ns/prov#Activity> ;
+                  <http://www.w3.org/ns/prov#generated>
+                          []  ;
+                  <http://www.w3.org/ns/prov#qualifiedAssociation>
+                          [] 
+                ] ;
+        <http://www.w3.org/ns/prov#wasUsedBy>
+                [ a       <http://www.w3.org/ns/prov#Activity> ;
+                  <http://www.w3.org/ns/prov#generated>
+                          []  ;
+                  <http://www.w3.org/ns/prov#qualifiedAssociation>
+                          [] 
+                ] ;
+        <http://www.w3.org/ns/prov#wasUsedBy>
+                [ a       <http://www.w3.org/ns/prov#Activity> ;
+                  <http://www.w3.org/ns/prov#generated>
+                          []  ;
+                  <http://www.w3.org/ns/prov#qualifiedAssociation>
+                          [] 
+                ] ;
+        <http://xmlns.com/foaf/0.1/isPrimaryTopicOf>
+                [ a                  dcat:CatalogRecord ;
+                  dct:identifier     "{E03628E4-1B46-4B41-8427-784D1C13F4B0}" ;
+                  dct:language       <http://publications.europa.eu/resource/authority/language/FRE> ;
+                  dct:source         []  ;
+                  dcat:contactPoint  []  ;
+                  dcat:contactPoint  [] 
+                ] ;
+        <http://xmlns.com/foaf/0.1/isPrimaryTopicOf>
+                [ a                  dcat:CatalogRecord ;
+                  dct:identifier     "{E03628E4-1B46-4B41-8427-784D1C13F4B0}" ;
+                  dct:language       <http://publications.europa.eu/resource/authority/language/FRE> ;
+                  dct:source         []  ;
+                  dcat:contactPoint  []  ;
+                  dcat:contactPoint  [] 
+                ] ;
+        <http://xmlns.com/foaf/0.1/isPrimaryTopicOf>
+                [ a                  dcat:CatalogRecord ;
+                  dct:identifier     "{E03628E4-1B46-4B41-8427-784D1C13F4B0}" ;
+                  dct:language       <http://publications.europa.eu/resource/authority/language/FRE> ;
+                  dct:source         []  ;
+                  dcat:contactPoint  []  ;
+                  dcat:contactPoint  [] 
+                ] .
+
+<http://projekt-opal.de/measurement178438>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Timeliness> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement175934>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Description> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement178698>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Timeliness> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement176051>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Description> ;
+        <http://www.w3.org/ns/dqv#value>
+                "4.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement178340>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/ContactUrl> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement176645>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Timeliness> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177356>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/LinkedDataRepresentation> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement178067>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Categorization> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement175563>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Timeliness> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177852>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Categorization> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement176014>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/KnownLicense> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/distribution/https___europeandataportal_eu_set_distribution_b9eb43d9_76a9_48d0_ba19_f0138e5639c3>
+        a               dcat:Distribution ;
+        dct:format      "CSV" ;
+        dct:language    "ger" ;
+        dct:title       "Rechnungsabschluss Schwechat 2011 (Statistik Austria)" ;
+        dcat:accessURL  <https://www.offenerhaushalt.at/data/download/30740_2011_STA_RA> .
+
+<http://projekt-opal.de/distribution/https___europeandataportal_eu_set_distribution_724fe986_5328_40b4_a714_50851eb3ccfc>
+        a                dcat:Distribution ;
+        dct:description  "WCS-endpoint H3O-Roerdalslenk - Hydrogeologie - Hoogtekaart basis IE-k-1"@nl ;
+        dct:format       <http://publications.europa.eu/resource/authority/file-type/XML> ;
+        dct:language     <http://publications.europa.eu/resource/authority/language/NLD> ;
+        dct:license      <http://overheid.vlaanderen.be/hergebruik/licenties/v1-0/html/modellicentie-gratis-hergebruik> ;
+        dct:title        "rds_hyd_basis_iek1"@nl ;
+        dcat:accessURL   <https://opendata.vlaanderen.be/dataset/46a1c994-4f88-438e-a7de-829151b56480> , <https://www.dov.vlaanderen.be/geoserver/wcs> ;
+        dcat:mediaType   "application/xml" .
+
+<http://projekt-opal.de/measurement178303>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/MultipleSerializations> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement176274>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Description> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement176608>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/MultipleSerializations> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement178563>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Description> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement176868>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Timeliness> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/distribution/https___europeandataportal_eu_set_distribution_453d1eee_5097_4e1f_93b3_cdfaac1024cb>
+        a                dcat:Distribution ;
+        dct:description  "There valid values of automatic monitoring of air quality in the RO010503:  November 2011 "@ro ;
+        dct:format       <http://publications.europa.eu/resource/authority/file-type/XML> ;
+        dct:title        "Validated values of November, 2011"@ro ;
+        dcat:accessURL   <http://data.gov.ro/dataset/dfb53ec9-2df1-405d-b951-d3afad5869c7/resource/25cd644e-e8fa-45fa-a031-1cf2a6cb05d1/download/valori-validate-aferente-noiembrie--anul-2011.xml> .
+
+<http://projekt-opal.de/measurement176510>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Timeliness> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177319>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Description> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement176770>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/LinkedDataRepresentation> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177579>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Timeliness> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177221>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/KnownLicense> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement175526>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/MultipleSerializations> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177481>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/KnownLicense> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177815>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Description> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement175786>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/MultipleSerializations> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/distribution/https___europeandataportal_eu_set_distribution_c4d7655b_9a75_4375_90aa_9019cf24e62a>
+        a               dcat:Distribution ;
+        dct:format      []  ;
+        dct:format      []  ;
+        dct:license     []  ;
+        dct:license     []  ;
+        dct:rights      []  ;
+        dct:rights      []  ;
+        dct:rights      []  ;
+        dct:rights      []  ;
+        dct:title       "download"@en ;
+        dcat:accessURL  <http://www.geoportal.rlp.de/mapbender/php/mod_inspireDownloadFeed.php?id=0e7ac08e-3990-f6d2-a543-c4cddccc421d&type=SERVICE&generateFrom=wmslayer&layerid=38399> .
+
+<http://projekt-opal.de/measurement176237>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/MultipleSerializations> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement178192>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/KnownLicense> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement178526>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/ContactUrl> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement176497>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/KnownLicense> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement178786>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Description> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://gisservices.noord-holland.nl/ags/services/pnh_dataservice_alg/MapServer/WFSServer?>
+        a          <http://xmlns.com/foaf/0.1/Document> ;
+        dct:title  "pnh_dataservice_alg:Noord-Holland_Pad"@nl , "Bouwen_op_slappe_grond_-_Dikte_holoceen_pakket"@nl , "pnh_dataservice_alg:Wieringermeer_en_Haarlemmermeer_-_Bodemkaart"@nl , "pnh_dataservice_alg:Woningbouwplannen"@nl , "Geothermiekansen_in_Noord-Holland"@nl , "pnh_dataservice_alg:Aanbod_verblijfsrecreatie_Noord_Noord-Holland"@nl , "pnh_dataservice_alg:Leefstijlen_per_gemeenteniveau"@nl , "Provinciegrens_op_land_Noord_Holland"@nl , "Gemeentegrenzen_op_land_provincie_Noord_Holland"@nl , "Bebouwde_kom_gebieden_volgens_de_Boswet"@nl , "pnh_dataservice_alg:Cultuurhistorische_Waardenkaart_Noord-Holland"@nl , "Geschiktheid_voor_ondergronds_bouwen_-_Opbarsting_Damwand"@nl , "Provinciegrens_van_Noord_Holland"@nl , "Werklocaties_bedrijventerrein"@nl , "Gemeentegrenzen_van_provincie_Noord_Holland"@nl , "Bouwen_op_slappe_grond_-_Zettingsgevoeligheid"@nl , "Bouwen_op_slappe_grond_-_Betrouwbaarheid_TNOkaarten"@nl .
+
+<http://projekt-opal.de/measurement176733>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Description> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement176993>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Description> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/distribution/https___europeandataportal_eu_set_distribution_7260bb90_ae13_4321_affe_5c5b312d68aa>
+        a               dcat:Distribution ;
+        dct:format      "XML" ;
+        dct:title       "v SR - podľa názvov trestných činov" ;
+        <http://www.w3.org/ns/adms#status>
+                "public" ;
+        dcat:accessURL  "https://data.gov.sk/dataset/003bd3a8-e5ad-4f09-80ab-cff6ee95354a/resource/a4841691-1ebe-4be7-b7ac-5706b4a43f07/download/2statistikapodlanazvovtc231.12.2013.xml" .
+
+<http://projekt-opal.de/measurement177444>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Categorization> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://publications.europa.eu/resource/authority/data-theme/ENVI>
+        a       <http://www.w3.org/2004/02/skos/core#Concept> ;
+        <http://www.w3.org/2004/02/skos/core#inSchema>
+                <http://publications.europa.eu/resource/authority/data-theme/> ;
+        <http://www.w3.org/2004/02/skos/core#prefLabel>
+                "Umwelt"@de , "Medio ambiente"@es , "Environment"@en , "Environnement"@fr , "Ambiente"@it , "Miljø" .
+
+<http://projekt-opal.de/measurement175749>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/LinkedDataRepresentation> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement178155>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Categorization> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement175651>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/ContactUrl> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177940>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Description> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement178749>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/ContactUrl> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement176102>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/KnownLicense> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement176362>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/ContactUrl> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/distribution/https___europeandataportal_eu_set_distribution_15709cba_5faf_4b9e_a37a_af2da734c7de>
+        a                dcat:Distribution ;
+        dct:description  "available as CSV" ;
+        dct:format       "CSV" ;
+        dct:license      <https://creativecommons.org/licenses/by/4.0/> ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:rights       []  ;
+        dct:title        "Download CSV" ;
+        dcat:accessURL   <http://atlas.marine.ie/midata/EnergyResourcesExploration/Exploration_Wells_Irish_Offshore.csv.zip> .
+
+<http://projekt-opal.de/measurement178651>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/KnownLicense> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement176956>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Timeliness> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177073>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Categorization> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177407>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/KnownLicense> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement175378>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/ContactUrl> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177667>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Categorization> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement178118>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/LinkedDataRepresentation> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement175614>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/ContactUrl> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement176089>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Categorization> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177903>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/MultipleSerializations> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement178378>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Categorization> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement175874>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Timeliness> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement178020>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Description> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement176325>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Description> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement178280>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/KnownLicense> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement178614>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/MultipleSerializations> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement176585>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Categorization> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement176919>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Description> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177036>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/KnownLicense> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/distribution/https___europeandataportal_eu_set_distribution_eb751614_a68d_4158_9f9e_f7e42a0e0dd7>
+        a               dcat:Distribution ;
+        dct:license     []  ;
+        dct:license     []  ;
+        dct:license     []  ;
+        dct:title       "Giżycko - MPZP 003: w sprawie miejscowego planu zagospodarowania przestrzennego zespołu mieszkaniowego Gajewo - Zachód w gminie Giżycko (280604_2, iVMPZP) - część opisowa"@pl ;
+        <http://www.w3.org/2011/content#characterEncoding>
+                "UTF-8" ;
+        <http://www.w3.org/ns/adms#representationTechnique>
+                <http://inspire.ec.europa.eu/metadata-codelist/SpatialRepresentationTypeCode/vector> ;
+        dcat:accessURL  <http://gizycko.e-mapa.net/?service=pln&request=getUchwala&p=57> .
+
+<http://projekt-opal.de/measurement176821>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/MultipleSerializations> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177296>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Description> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177532>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/ContactUrl> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement175837>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/MultipleSerializations> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177792>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/MultipleSerializations> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement178243>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Categorization> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://www.orkuvefsja.is/vefsja/orkuvefsja_en.html>
+        a       <http://xmlns.com/foaf/0.1/Document> .
+
+<https://kort.lmi.is/?zoomLevel=6&coord=524546.588_477275.7075&mapLayers=321+100+,499+100+lr_landgraedslusvaed>
+        a                <http://xmlns.com/foaf/0.1/Document> ;
+        dct:description  "Oskari Landupplýsingagátt / Geoportal"@en ;
+        dct:title        "Landupplýsingagátt"@en .
+
+<http://projekt-opal.de/measurement176548>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Categorization> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement178837>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/MultipleSerializations> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement176450>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Description> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177259>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Categorization> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177161>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/MultipleSerializations> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement175466>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Timeliness> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177755>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/KnownLicense> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement178206>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/LinkedDataRepresentation> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement175702>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Description> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement176177>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/KnownLicense> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement178466>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/LinkedDataRepresentation> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement175962>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/ContactUrl> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/distribution/https___europeandataportal_eu_set_distribution_9f1138e6_014a_48db_b086_62911649f6ba>
+        a                dcat:Distribution ;
+        dct:description  "There valid values of automatic monitoring of air quality in the RO010503:  October since 2011 "@ro ;
+        dct:format       <http://publications.europa.eu/resource/authority/file-type/XML> ;
+        dct:title        "Validated values of October, 2011"@ro ;
+        dcat:accessURL   <http://data.gov.ro/dataset/dfb53ec9-2df1-405d-b951-d3afad5869c7/resource/776d251d-ba70-448c-b3ec-850361c96f2e/download/valori-validate-aferente-octombrie--anul-2011.xml> .
+
+<http://projekt-opal.de/measurement176413>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/ContactUrl> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement178702>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Description> ;
+        <http://www.w3.org/ns/dqv#value>
+                "5.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement176673>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/KnownLicense> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/dataset/https___europeandataportal_eu_set_data_000290e8_911d_4a2b_a1f4_ae20d884e6e7>
+        a                  dcat:Dataset ;
+        dct:conformsTo     [ dct:type  <http://inspire.ec.europa.eu/metadata-codelist/SpatialReferenceSystem> ;
+                             <http://www.w3.org/2004/02/skos/core#inScheme>
+                                     []  ;
+                             <http://www.w3.org/2004/02/skos/core#prefLabel>
+                                     "4258"@de
+                           ] ;
+        dct:conformsTo     [ dct:type  <http://inspire.ec.europa.eu/metadata-codelist/SpatialReferenceSystem> ;
+                             <http://www.w3.org/2004/02/skos/core#inScheme>
+                                     []  ;
+                             <http://www.w3.org/2004/02/skos/core#prefLabel>
+                                     "4839"@de
+                           ] ;
+        dct:conformsTo     [ dct:type  <http://inspire.ec.europa.eu/metadata-codelist/SpatialReferenceSystem> ;
+                             <http://www.w3.org/2004/02/skos/core#inScheme>
+                                     []  ;
+                             <http://www.w3.org/2004/02/skos/core#prefLabel>
+                                     "325833"@de
+                           ] ;
+        dct:conformsTo     [ dct:type  <http://inspire.ec.europa.eu/metadata-codelist/SpatialReferenceSystem> ;
+                             <http://www.w3.org/2004/02/skos/core#inScheme>
+                                     []  ;
+                             <http://www.w3.org/2004/02/skos/core#prefLabel>
+                                     "25833"@de
+                           ] ;
+        dct:conformsTo     [ dct:type  <http://inspire.ec.europa.eu/metadata-codelist/SpatialReferenceSystem> ;
+                             <http://www.w3.org/2004/02/skos/core#inScheme>
+                                     []  ;
+                             <http://www.w3.org/2004/02/skos/core#prefLabel>
+                                     "4326"@de
+                           ] ;
+        dct:conformsTo     [ dct:type  <http://inspire.ec.europa.eu/metadata-codelist/SpatialReferenceSystem> ;
+                             <http://www.w3.org/2004/02/skos/core#inScheme>
+                                     []  ;
+                             <http://www.w3.org/2004/02/skos/core#prefLabel>
+                                     "25832"@de
+                           ] ;
+        dct:description    "Im Konsolidierungsgebiet sind die Programme MietwohnungsbauförderungsR, AufzugsR und GenossenschaftsR anwendbar."@de ;
+        dct:identifier     "http://geoportal.brandenburg.de/registry/stadt-koenigs-wusterhausen#000290e8-911d-4a2b-a1f4-ae20d884e6e7"^^<http://www.w3.org/2001/XMLSchema#anyURI> ;
+        dct:spatial        [ a       dct:Location ;
+                             <http://www.w3.org/ns/locn#geometry>
+                                     "<gml:Envelope srsName=\"http://www.opengis.net/def/EPSG/0/4326\"><gml:lowerCorner>52.2885 13.6185</gml:lowerCorner><gml:upperCorner>52.2976 13.6405</gml:upperCorner></gml:Envelope>"^^<http://www.opengis.net/ont/geosparql#gmlLiteral> , "POLYGON((13.6185 52.2976,13.6405 52.2976,13.6405 52.2885,13.6185 52.2885,13.6185 52.2976))"^^<http://www.openlinksw.com/schemas/virtrdf#Geometry>
+                           ] ;
+        dct:title          "Konsolidierungsgebiete - Stadt Königs Wusterhausen (WMS)"@de ;
+        dct:type           <http://inspire.ec.europa.eu/metadata-codelist/ResourceType/services> , <http://inspire.ec.europa.eu/metadata-codelist/SpatialDataServiceType/view> ;
+        dcat:contactPoint  [ a       <http://www.w3.org/2006/vcard/ns#Individual> ;
+                             <http://www.w3.org/2006/vcard/ns#fn>
+                                     "Jörg Arwa (Administrator)" ;
+                             <http://www.w3.org/2006/vcard/ns#hasAddress>
+                                     []  ;
+                             <http://www.w3.org/2006/vcard/ns#hasEmail>
+                                     <mailto:geoportal@stadt-kw.de> ;
+                             <http://www.w3.org/2006/vcard/ns#hasTelephone>
+                                     <tel:+03375%20273-229> ;
+                             <http://www.w3.org/2006/vcard/ns#organization-name>
+                                     "Stadt Königs Wusterhausen"
+                           ] ;
+        dcat:distribution  <http://projekt-opal.de/distribution/https___europeandataportal_eu_set_distribution_b1af4a94_30ca_4959_9fcc_142d24bf0b97> ;
+        dcat:keyword       "infoMapAccessService"@de , "Konsolidierungsgebiete"@de , "Königs Wusterhausen"@de , "Stadtentwicklung"@de ;
+        <http://www.w3.org/ns/dqv#hasQualityMeasurement>
+                <http://projekt-opal.de/measurement178221> , <http://projekt-opal.de/measurement178227> , <http://projekt-opal.de/measurement178224> , <http://projekt-opal.de/measurement178225> , <http://projekt-opal.de/measurement178222> , <http://projekt-opal.de/measurement178223> , <http://projekt-opal.de/measurement178226> ;
+        <http://xmlns.com/foaf/0.1/isPrimaryTopicOf>
+                [ a                  dcat:CatalogRecord ;
+                  dct:identifier     "000290e8-911d-4a2b-a1f4-ae20d884e6e7" ;
+                  dct:language       <http://publications.europa.eu/resource/authority/language/GER> ;
+                  dct:source         []  ;
+                  <http://www.w3.org/2011/content#characterEncoding>
+                          "UTF-8" ;
+                  dcat:contactPoint  [] 
+                ] .
+
+<http://projekt-opal.de/distribution/https___europeandataportal_eu_set_distribution_bdbd16eb_f08b_43d4_a296_dbd2998b14c3>
+        a                dcat:Distribution ;
+        <http://dcat-ap.de/def/dcatde/1.0.1/licenseAttributionByText>
+                "Land NRW" ;
+        dct:description  "Anzahl durchgeführter Ordnungspflichtprüfungen seit 2004" ;
+        dct:format       "CSV" ;
+        dct:language     "http://publications.europa.eu/resource/authority/language/DEU" ;
+        dct:license      <http://dcat-ap.de/def/licenses/dl-by-de/2.0> ;
+        dcat:accessURL   <https://www.bra.nrw.de/container/open_data/bergbau/ordnungspflichtpruefungen.csv> .
+
+<http://projekt-opal.de/distribution/https___europeandataportal_eu_set_distribution_53016d0e_7b60_483f_a18e_071707b3a4f1>
+        a                dcat:Distribution ;
+        dct:description  "There valid values of automatic monitoring of air quality in the RO010503:  October since 2007 "@ro ;
+        dct:format       <http://publications.europa.eu/resource/authority/file-type/XML> ;
+        dct:title        "Validated values of October, 2007"@ro ;
+        dcat:accessURL   <http://data.gov.ro/dataset/dfb53ec9-2df1-405d-b951-d3afad5869c7/resource/c5121431-db21-445a-bb71-d886d626fac8/download/valori-validate-aferente-octombrie--anul-2007.xml> .
+
+<http://projekt-opal.de/measurement177124>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Timeliness> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement175429>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/MultipleSerializations> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177384>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Timeliness> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177718>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Timeliness> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement175689>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/ContactUrl> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/measurement177978>
+        a       <http://www.w3.org/ns/dqv#qualityMeasurement> ;
+        <http://www.w3.org/ns/dqv#isMeasurementOf>
+                <http://metric.projekt-opal.de/Categorization> ;
+        <http://www.w3.org/ns/dqv#value>
+                "0.0"^^<http://www.w3.org/2001/XMLSchema#float> .
+
+<http://projekt-opal.de/dataset/https___europeandataportal_eu_set_data_00463555_c754_7faa_300d_300dd9b8a268>
+        a                  dcat:Dataset ;
+        dct:conformsTo     [ dct:issued  "2011-02-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+                             dct:title   "VERORDNUNG (EU) Nr. 102/2011 DER KOMMISSION vom 4. Februar 2011 zur Änderung der Verordnung (EU) Nr. 1089/2010 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich der Interoperabilität von Geodatensätzen und -diensten"@de
+                           ] ;
+        dct:conformsTo     [ dct:issued  "2011-02-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+                             dct:title   "VERORDNUNG (EU) Nr. 102/2011 DER KOMMISSION vom 4. Februar 2011 zur Änderung der Verordnung (EU) Nr. 1089/2010 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich der Interoperabilität von Geodatensätzen und -diensten"@de
+                           ] ;
+        dct:conformsTo     [ dct:issued  "2008-12-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+                             dct:title   "VERORDNUNG (EG) Nr. 1205/2008 DER KOMMISSION vom 3. Dezember 2008 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich Metadaten"@de
+                           ] ;
+        dct:conformsTo     [ dct:issued  "2010-12-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
+                             dct:title   "VERORDNUNG (EG) Nr. 1089/2010 DER KOMMISSION vom 23. November 2010 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich der Interoperabilität von Geodatensätzen und -diensten"@de
+                           ] ;
+        dct:conformsTo     [ dct:issued  "2008-12-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+                             dct:title   "VERORDNUNG (EG) Nr. 1205/2008 DER KOMMISSION vom 3. Dezember 2008 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich Metadaten"@de
+                           ] ;
+        dct:conformsTo     [ dct:issued  "2008-12-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+                             dct:title   "VERORDNUNG (EG) Nr. 1205/2008 DER KOMMISSION vom 3. Dezember 2008 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich Metadaten"@de
+                           ] ;
+        dct:conformsTo     [ dct:issued  "2010-12-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
+                             dct:title   "VERORDNUNG (EG) Nr. 1089/2010 DER KOMMISSION vom 23. November 2010 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich der Interoperabilität von Geodatensätzen und -diensten"@de
+                           ] ;
+        dct:conformsTo     [ dct:issued  "2011-02-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+                             dct:title   "VERORDNUNG (EU) Nr. 102/2011 DER KOMMISSION vom 4. Februar 2011 zur Änderung der Verordnung (EU) Nr. 1089/2010 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich der Interoperabilität von Geodatensätzen und -diensten"@de
+                           ] ;
+        dct:conformsTo     [ dct:issued  "2010-12-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
+                             dct:title   "VERORDNUNG (EG) Nr. 1089/2010 DER KOMMISSION vom 23. November 2010 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich der Interoperabilität von Geodatensätzen und -diensten"@de
+                           ] ;
+        dct:conformsTo     [ dct:issued  "2013-12-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+                             dct:title   "VERORDNUNG (EU) Nr. 1253/2013 DER KOMMISSION vom 21. Oktober 2013 zur Änderung der Verordnung (EU) Nr. 1089/2010 zur Durchführung der Richtlinie 2007/2/EG hinsichtlich der Interoperabilität von Geodatensätzen und -diensten"@de
+                           ] ;
+        dct:conformsTo     [ dct:issued  "2010-12-08"^^<http://www.w3.org/2001/XMLSchema#date> ;
+                             dct:title   "VERORDNUNG (EG) Nr. 1089/2010 DER KOMMISSION vom 23. November 2010 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich der Interoperabilität von Geodatensätzen und -diensten"@de
+                           ] ;
+        dct:conformsTo     [ dct:issued  "2013-12-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+                             dct:title   "VERORDNUNG (EU) Nr. 1253/2013 DER KOMMISSION vom 21. Oktober 2013 zur Änderung der Verordnung (EU) Nr. 1089/2010 zur Durchführung der Richtlinie 2007/2/EG hinsichtlich der Interoperabilität von Geodatensätzen und -diensten"@de
+                           ] ;
+        dct:conformsTo     [ dct:issued  "2011-02-05"^^<http://www.w3.org/2001/XMLSchema#date> ;
+                             dct:title   "VERORDNUNG (EU) Nr. 102/2011 DER KOMMISSION vom 4. Februar 2011 zur Änderung der Verordnung (EU) Nr. 1089/2010 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich der Interoperabilität von Geodatensätzen und -diensten"@de
+                           ] ;
+        dct:conformsTo     [ dct:issued  "2013-12-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+                             dct:title   "VERORDNUNG (EU) Nr. 1253/2013 DER KOMMISSION vom 21. Oktober 2013 zur Änderung der Verordnung (EU) Nr. 1089/2010 zur Durchführung der Richtlinie 2007/2/EG hinsichtlich der Interoperabilität von Geodatensätzen und -diensten"@de
+                           ] ;
+        dct:conformsTo     [ dct:issued  "2008-12-04"^^<http://www.w3.org/2001/XMLSchema#date> ;
+                             dct:title   "VERORDNUNG (EG) Nr. 1205/2008 DER KOMMISSION vom 3. Dezember 2008 zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlich Metadaten"@de
+                           ] ;
+        dct:conformsTo     [ dct:issued  "2013-12-10"^^<http://www.w3.org/2001/XMLSchema#date> ;
+                             dct:title   "VERORDNUNG (EU) Nr. 1253/2013 DER KOMMISSION vom 21. Oktober 2013 zur Änderung der Verordnung (EU) Nr. 1089/2010 zur Durchführung der Richtlinie 2007/2/EG hinsichtlich der Interoperabilität von Geodatensätzen und -diensten"@de
+                           ] ;
+        dct:description    "Beschreibung des INSPIRE Download Service (predefined Atom): Fernerkundungsgestützte Landschaftsobjekte des Naturschutzes in Rheinland Pfalz - Der/die Link(s) für das Herunterladen der Datensätze wird/werden dynamisch aus Download Link aus einem Metadatensatz generiert"@de ;
+        dct:hasPart        <file:///usr/verticles/http%3A%2F%2Fwww.natflo.de%2F00463555c7547faac595b943364a4b95> ;
+        dct:issued         "1970-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        dct:modified       "1970-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+        dct:publisher      [ a       <http://xmlns.com/foaf/0.1/Organization> ;
+                             <http://www.w3.org/ns/locn#address>
+                                     []  ;
+                             <http://xmlns.com/foaf/0.1/mbox>
+                                     <mailto:kontakt@geoportal.rlp.de> ;
+                             <http://xmlns.com/foaf/0.1/name>
+                                     "Zentrale Stelle GDI-RP"
+                           ] ;
+        dct:publisher      [ a       <http://xmlns.com/foaf/0.1/Organization> ;
+                             <http://www.w3.org/ns/locn#address>
+                                     []  ;
+                             <http://xmlns.com/foaf/0.1/mbox>
+                                     <mailto:kontakt@geoportal.rlp.de> ;
+                             <http://xmlns.com/foaf/0.1/name>
+                                     "Zentrale Stelle GDI-RP"
+                           ] ;
+        dct:publisher      [ a       <http://xmlns.com/foaf/0.1/Organization> ;
+                             <http://www.w3.org/ns/locn#address>
+                                     []  ;
+                             <http://xmlns.com/foaf/0.1/mbox>
+                                     <mailto:kontakt@geoportal.rlp.de> ;
+                             <http://xmlns.com/foaf/0.1/name>
+                                     "Zentrale Stelle GDI-RP"
+                           ] ;
+        dct:publisher      [ a       <http://xmlns.com/foaf/0.1/Organization> ;
+                             <http://www.w3.org/ns/locn#address>
+                                     []  ;
+                             <http://xmlns.com/foaf/0.1/mbox>
+                                     <mailto:kontakt@geoportal.rlp.de> ;
+                             <http://xmlns.com/foaf/0.1/name>
+                                     "Zentrale Stelle GDI-RP"
+                           ] ;
+        dct:spatial        [ a       dct:Location ;
+                             <http://www.w3.org/ns/locn#geometry>
+                                     "POLYGON((7.5695872306824 49.345100402832,7.7995390892029 49.345100402832,7.7995390892029 49.265224456787,7.5695872306824 49.265224456787,7.5695872306824 49.345100402832))"^^<http://www.openlinksw.com/schemas/virtrdf#Geometry> , "<gml:Envelope srsName=\"http://www.opengis.net/def/EPSG/0/4326\"><gml:lowerCorner>49.2652244567871 7.56958723068237</gml:lowerCorner><gml:upperCorner>49.345100402832 7.79953908920288</gml:upperCorner></gml:Envelope>"^^<http://www.opengis.net/ont/geosparql#gmlLiteral>
+                           ] ;
+        dct:spatial        [ a       dct:Location ;
+                             <http://www.w3.org/ns/locn#geometry>
+                                     "POLYGON((7.5695872306824 49.345100402832,7.7995390892029 49.345100402832,7.7995390892029 49.265224456787,7.5695872306824 49.265224456787,7.5695872306824 49.345100402832))"^^<http://www.openlinksw.com/schemas/virtrdf#Geometry> , "<gml:Envelope srsName=\"http://www.opengis.net/def/EPSG/0/4326\"><gml:lowerCorner>49.2652244567871 7.56958723068237</gml:lowerCorner><gml:upperCorner>49.345100402832 7.79953908920288</gml:upperCorner></gml:Envelope>"^^<http://www.opengis.net/ont/geosparql#gmlLiteral>
+                           ] ;
+        dct:spatial        [ a       dct:Location ;
+                             <http://www.w3.org/ns/locn#geometry>
+                                     "POLYGON((7.5695872306824 49.345100402832,7.7995390892029 49.345100402832,7.7995390892029 49.265224456787,7.5695872306824 49.265224456787,7.5695872306824 49.345100402832))"^^<http://www.openlinksw.com/schemas/virtrdf#Geometry> , "<gml:Envelope srsName=\"http://www.opengis.net/def/EPSG/0/4326\"><gml:lowerCorner>49.2652244567871 7.56958723068237</gml:lowerCorner><gml:upperCorner>49.345100402832 7.79953908920288</gml:upperCorner></gml:Envelope>"^^<http://www.opengis.net/ont/geosparql#gmlLiteral>
+                           ] ;
+        dct:spatial        [ a       dct:Location ;
+                             <http://www.w3.org/ns/locn#geometry>
+                                     "POLYGON((7.5695872306824 49.345100402832,7.7995390892029 49.345100402832,7.7995390892029 49.265224456787,7.5695872306824 49.265224456787,7.5695872306824 49.345100402832))"^^<http://www.openlinksw.com/schemas/virtrdf#Geometry> , "<gml:Envelope srsName=\"http://www.opengis.net/def/EPSG/0/4326\"><gml:lowerCorner>49.2652244567871 7.56958723068237</gml:lowerCorner><gml:upperCorner>49.345100402832 7.79953908920288</gml:upperCorner></gml:Envelope>"^^<http://www.opengis.net/ont/geosparql#gmlLiteral>
+                           ] ;
+        dct:title          "INSPIRE Download Service (predefined ATOM) für Datensatz Landschaftsobjekte aus NATFLO: Waldfischbach-Burgalben"@de ;
+        dct:type           <http://inspire.ec.europa.eu/metadata-codelist/ResourceType/services> , <http://inspire.ec.europa.eu/metadata-codelist/SpatialDataServiceType/download> ;
+        dcat:distribution  <http://projekt-opal.de/distribution/https___europeandataportal_eu_set_distribution_1096ed6d_fae9_48c5_9040_62846c7d4487> ;
+        dcat:keyword       "infoFeatureAccessService"@de , "inspireidentifiziert"@de ;
+        <http://www.w3.org/ns/dqv#hasQualityMeasurement>
+                <http://projekt-opal.de/measurement177625> , <http://projekt-opal.de/measurement177621> , <http://projekt-opal.de/measurement177622> , <http://projekt-opal.de/measurement177623> , <http://projekt-opal.de/measurement177619> , <http://projekt-opal.de/measurement177624> , <http://projekt-opal.de/measurement177620> ;
+        <http://www.w3.org/ns/prov#wasUsedBy>
+                [ a       <http://www.w3.org/ns/prov#Activity> ;
+                  <http://www.w3.org/ns/prov#generated>
+                          []  ;
+                  <http://www.w3.org/ns/prov#qualifiedAssociation>
+                          [] 
+                ] ;
+        <http://www.w3.org/ns/prov#wasUsedBy>
+                [ a       <http://www.w3.org/ns/prov#Activity> ;
+                  <http://www.w3.org/ns/prov#generated>
+                          []  ;
+                  <http://www.w3.org/ns/prov#qualifiedAssociation>
+                          [] 
+                ] ;
+        <http://www.w3.org/ns/prov#wasUsedBy>
+                [ a       <http://www.w3.org/ns/prov#Activity> ;
+                  <http://www.w3.org/ns/prov#generated>
+                          []  ;
+                  <http://www.w3.org/ns/prov#qualifiedAssociation>
+                          [] 
+                ] ;
+        <http://www.w3.org/ns/prov#wasUsedBy>
+                [ a       <http://www.w3.org/ns/prov#Activity> ;
+                  <http://www.w3.org/ns/prov#generated>
+                          []  ;
+                  <http://www.w3.org/ns/prov#qualifiedAssociation>
+                          [] 
+                ] ;
+        <http://www.w3.org/ns/prov#wasUsedBy>
+                [ a       <http://www.w3.org/ns/prov#Activity> ;
+                  <http://www.w3.org/ns/prov#generated>
+                          []  ;
+                  <http://www.w3.org/ns/prov#qualifiedAssociation>
+                          [] 
+                ] ;
+        <http://www.w3.org/ns/prov#wasUsedBy>
+                [ a       <http://www.w3.org/ns/prov#Activity> ;
+                  <http://www.w3.org/ns/prov#generated>
+                          []  ;
+                  <http://www.w3.org/ns/prov#qualifiedAssociation>
+                          [] 
+                ] ;
+        <http://www.w3.org/ns/prov#wasUsedBy>
+                [ a       <http://www.w3.org/ns/prov#Activity> ;
+                  <http://www.w3.org/ns/prov#generated>
+                          []  ;
+                  <http://www.w3.org/ns/prov#qualifiedAssociation>
+                          [] 
+                ] ;
+        <http://www.w3.org/ns/prov#wasUsedBy>
+                [ a       <http://www.w3.org/ns/prov#Activity> ;
+                  <http://www.w3.org/ns/prov#generated>
+                          []  ;
+                  <http://www.w3.org/ns/prov#qualifiedAssociation>
+                          [] 
+                ] ;
+        <http://www.w3.org/ns/prov#wasUsedBy>
+                [ a       <http://www.w3.org/ns/prov#Activity> ;
+                  <http://www.w3.org/ns/prov#generated>
+                          []  ;
+                  <http://www.w3.org/ns/prov#qualifiedAssociation>
+                          [] 
+                ] ;
+        <http://www.w3.org/ns/prov#wasUsedBy>
+                [ a       <http://www.w3.org/ns/prov#Activity> ;
+                  <http://www.w3.org/ns/prov#generated>
+                          []  ;
+                  <http://www.w3.org/ns/prov#qualifiedAssociation>
+                          [] 
+                ] ;
+        <http://www.w3.org/ns/prov#wasUsedBy>
+                [ a       <http://www.w3.org/ns/prov#Activity> ;
+                  <http://www.w3.org/ns/prov#generated>
+                          []  ;
+                  <http://www.w3.org/ns/prov#qualifiedAssociation>
+                          [] 
+                ] ;
+        <http://www.w3.org/ns/prov#wasUsedBy>
+                [ a       <http://www.w3.org/ns/prov#Activity> ;
+                  <http://www.w3.org/ns/prov#generated>
+                          []  ;
+                  <http://www.w3.org/ns/prov#qualifiedAssociation>
+                          [] 
+                ] ;
+        <http://www.w3.org/ns/prov#wasUsedBy>
+                [ a       <http://www.w3.org/ns/prov#Activity> ;
+                  <http://www.w3.org/ns/prov#generated>
+                          []  ;
+                  <http://www.w3.org/ns/prov#qualifiedAssociation>
+                          [] 
+                ] ;
+        <http://www.w3.org/ns/prov#wasUsedBy>
+                [ a       <http://www.w3.org/ns/prov#Activity> ;
+                  <http://www.w3.org/ns/prov#generated>
+                          []  ;
+                  <http://www.w3.org/ns/prov#qualifiedAssociation>
+                          [] 
+                ] ;
+        <http://www.w3.org/ns/prov#wasUsedBy>
+                [ a       <http://www.w3.org/ns/prov#Activity> ;
+                  <http://www.w3.org/ns/prov#generated>
+                          []  ;
+                  <http://www.w3.org/ns/prov#qualifiedAssociation>
+                          [] 
+                ] ;
+        <http://www.w3.org/ns/prov#wasUsedBy>
+                [ a       <http://www.w3.org/ns/prov#Activity> ;
+                  <http://www.w3.org/ns/prov#generated>
+                          []  ;
+                  <http://www.w3.org/ns/prov#qualifiedAssociation>
+                          [] 
+                ] ;
+        <http://xmlns.com/foaf/0.1/isPrimaryTopicOf>
+                [ a                  dcat:CatalogRecord ;
+                  dct:identifier     "00463555-c754-7faa-300d-300dd9b8a268" ;
+                  dct:language       <http://publications.europa.eu/resource/authority/language/GER> ;
+                  dct:modified       "1970-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+                  dct:source         []  ;
+                  <http://www.w3.org/2011/content#characterEncoding>
+                          "UTF-8" ;
+                  dcat:contactPoint  [] 
+                ] ;
+        <http://xmlns.com/foaf/0.1/isPrimaryTopicOf>
+                [ a                  dcat:CatalogRecord ;
+                  dct:identifier     "00463555-c754-7faa-300d-300dd9b8a268" ;
+                  dct:language       <http://publications.europa.eu/resource/authority/language/GER> ;
+                  dct:modified       "1970-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+                  dct:source         []  ;
+                  <http://www.w3.org/2011/content#characterEncoding>
+                          "UTF-8" ;
+                  dcat:contactPoint  [] 
+                ] ;
+        <http://xmlns.com/foaf/0.1/isPrimaryTopicOf>
+                [ a                  dcat:CatalogRecord ;
+                  dct:identifier     "00463555-c754-7faa-300d-300dd9b8a268" ;
+                  dct:language       <http://publications.europa.eu/resource/authority/language/GER> ;
+                  dct:modified       "1970-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+                  dct:source         []  ;
+                  <http://www.w3.org/2011/content#characterEncoding>
+                          "UTF-8" ;
+                  dcat:contactPoint  [] 
+                ] ;
+        <http://xmlns.com/foaf/0.1/isPrimaryTopicOf>
+                [ a                  dcat:CatalogRecord ;
+                  dct:identifier     "00463555-c754-7faa-300d-300dd9b8a268" ;
+                  dct:language       <http://publications.europa.eu/resource/authority/language/GER> ;
+                  dct:modified       "1970-01-01"^^<http://www.w3.org/2001/XMLSchema#date> ;
+                  dct:source         []  ;
+                  <http://www.w3.org/2011/content#characterEncoding>
+                          "UTF-8" ;
+                  dcat:contactPoint  [] 
+                ] .
