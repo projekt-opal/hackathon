@@ -1,6 +1,8 @@
 # Show-Geo
 Show Geo project displays the available datasets at https://www.europeandataportal.eu/en on a map.<br><br>
 This is done by querying the <a href="https://www.europeandataportal.eu/sparql">sparql enpoint</a> of the portal, where it looks for the available spatial data. Since the available spatial data is in form of coordinates of a Polygon, it averages the latitude and longitude values to derive the center coordinate. At this coordinate a pin is placed on the map with the Urls of the respective datasets available (URI on hover). When clicked, the pin will open the list of all the datasets as hyperlinks available at this point. Dataset hyperlinks can be clicked to open the dataset webpage.
+## Configuration
+Insert a [mapbox](https://docs.mapbox.com/help/tutorials/get-started-tokens-api/) token and insrt it at [map-comp.js](https://github.com/projekt-opal/hackathon/blob/show-geo/show-geo-react/src/map/map-comp.js#L14).
 ## How to operate
 The user interface would look something like this: <br><br>
 <kbd>
