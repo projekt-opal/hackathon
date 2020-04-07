@@ -1,6 +1,6 @@
 # DatasetLocator
 - This is a maven project implemented in Spring Boot and GoogleMap JS library.
-- At this moment, the app can show location of only one dataset in the Google map.
+- At this moment, the app can show location of only one dataset variable in the Google map. 
 
 ## How it works?
 - The app has been designed in an MVC approach.
