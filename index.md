@@ -2,7 +2,7 @@
 
 ### Updates
 
- * [Congratulations to the two winners](http://projekt-opal.de/en/opal-open-data-hackathon-2/) Show-Geo & Theme-Classify [2020-04-09 18:40]
+ * [Congratulations to the two winners](http://projekt-opal.de/en/opal-open-data-hackathon-2/): Show-Geo & Theme-Classify! [2020-04-09 18:40]
  * The [form for submission of results](https://umfragen.uni-paderborn.de/index.php/679666?lang=en) is online [13:55]
  * [Etherpad](https://etherpad.wikimedia.org/p/opendatahack) to collect notes from the chat [11:20]
  * If you have problems connecting to the server, please try a client other than Riot Web (see [Matrix chat](chat.md)) [10:48]
