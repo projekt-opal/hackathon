@@ -1,13 +1,29 @@
 ## Hackathon
 
+### Updates
+
+ * The certificates and prizes (using [Hasentaler](https://www.hasentaler.de/) and [From OWL with love](https://www.from-owl-with-love.de/)) have been sent.  
+   The [Results](https://github.com/projekt-opal/hackathon) are available online [2020-04-17 14:15]
+ * [Congratulations to the two winners](http://projekt-opal.de/en/opal-open-data-hackathon-2/): Show-Geo & Theme-Classify! [2020-04-09 18:40]
+ * The [form for submission of results](https://umfragen.uni-paderborn.de/index.php/679666?lang=en) is online [13:55]
+ * [Etherpad](https://etherpad.wikimedia.org/p/opendatahack) to collect notes from the chat [11:20]
+ * If you have problems connecting to the server, please try a client other than Riot Web (see [Matrix chat](chat.md)) [10:48]
+
 ### Date
 
 Day: Monday, **April 6th**, 2020  
-Room: [D1.338](https://www.openstreetmap.org/#map=19/51.70758/8.77196)
-
+Time: **10.00** - 18.00  
+Location: **Remote**
+~~(Room: D1.338, physical presence has been cancelled due to Corona)~~
+  
 ### Participation
 
-We'll send invitation mails soon.
+* The participation is **open to all**. No registration is required.
+* [Introduction video](https://vimeo.com/404368209)
+* Please join the [Matrix chat](chat.md) for communication.  
+* Add yourself and your ideas to the [ideas and people spreadsheet](https://docs.google.com/spreadsheets/d/1ZFFG08fBxPzImB6emwxi5YGTfPWF4PtZOEKVIVNhG88/)
+* A **prize worth 100 Euro** for the best solution will be awarded among UPB students participating in the contest. (Preferably as [Hasentaler](https://www.hasentaler.de/online-angebote/#gutscheine) coupons.)
+* Participating UPB students who submit a solution will receive a **confirmation of participation**. The deadline for results is Tuesday, April 7th, 2020. Please use the [form for results submission](https://umfragen.uni-paderborn.de/index.php/679666?lang=en).
 
 ### Tasks
 
@@ -16,7 +32,7 @@ To be more specific and to provide some ideas, we defined some [example tasks](t
 
 ### Data
 
-Min data formats and specifications are described at page [formats](formats.md).  
+Main data formats and specifications are described at page [formats](formats.md).  
 Data access information is available at [data](data.md) and [open data paderborn](open-data-paderborn.md).
 
 ### Notes

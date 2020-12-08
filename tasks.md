@@ -4,7 +4,11 @@ In the OPAL project, we're working with DCAT datasets in RDF format (see [format
 This is the basis of the hackathon.
 There are ideas for components that could be used in the project.
 
-## Metadata + JavaScript Visualization
+&nbsp;
+
+## Metadata + JavaScript
+
+### Visualization: Show the related locations of datasets
 
 Datasets may contain spatial information (geo coordinates).
 The spatial information could be visualized as a map like at [OpenDataMonitor](https://opendatamonitor.eu/).
@@ -26,6 +30,13 @@ LIMIT 100
 OFFSET 0
 ```
 
+### Spatial slicing: Allow users to draw a bounding box
+
+Another task is to develop a spatial slicing component. In the available data, there are geo-coordinates for individual datasets. The goal of the spatial slicing task is to get those datasets, which are related to a selected region. To let users define a region, a JavaScript component is required, which allows users to draw a bounding box (rectangle or polygon) and therefore to specify a region. Returning the geo-coordinates of a selected bounding box is the main objective of this task.  Afterwards, the bounding box coordinates can be delivered to another component (probably [Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/geo-queries.html)).
+Examples can be found at [OpenStreetMap Wiki: Bounding Box](https://wiki.openstreetmap.org/wiki/Bounding_Box).
+
+&nbsp;
+
 ## Metadata + Data Science approach
 
 Maybe you already played around with some scientific approaches.
@@ -33,7 +44,7 @@ That could for instance be a topic extraction or a statistical analysis.
 You are free to apply those approaches to the available metadata records.
 
 An idea is to first create a set of titles, descriptions and categories of existing datasets.
-As not for all datasets a category is set, this could become a supervised (machine learning) categorization task.
+As not for all datasets a category (called *theme* in DCAT) is set, this could become a supervised (machine learning) classification task.
 Use the complete datasets to create a model containing used words on the one hand and categories on the other hand.
 Based on comparisons of word vectors, categories can be set for datasets without categories.
 
@@ -44,11 +55,18 @@ Note that some approaches already have been implemented, e.g.
 [data slicing](https://github.com/projekt-opal/ElasticTriples).
 You can also improve the implementations.
 
+&nbsp;
+
 ## Metadata + Metadata + Data + Data
 
 If you already found multiple datasets, that are related to each other, you could think about combining them into one dataset.
 This could be two datasets concerning the same topic, e.g. the field of traffic or the same time period or the same city.
 Feel free to work on combining such datasets.
+For instance, extract and combine parts of [Open Data Paderborn](open-data-paderborn.md).
 But before publishing created data, check the underlying licenses!
 
+&nbsp;
+
 [Start page](index.md)
+
+&nbsp;

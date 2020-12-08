@@ -3,6 +3,8 @@
 We focus on two types of data: **Open metadata records** and **mobility datasets**.  
 Data formats are described on page [formats](formats.md).
 
+&nbsp;
+
 ## Open metadata records
 
 Here you can access DCAT/RDF data:
@@ -30,6 +32,27 @@ LIMIT 100
 OFFSET 0
 ```
 
+#### Construct a graph with titles and related download URLs of datasets
+
+```SPARQL
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+PREFIX dct: <http://purl.org/dc/terms/>
+
+CONSTRUCT {
+  ?dataset dct:title ?title .
+  ?dataset <http://example.org/hasUrl> ?url
+} WHERE {
+  ?dataset a dcat:Dataset .
+  ?dataset dct:title ?title .
+  ?dataset dcat:distribution ?distribution .
+  ?distribution dcat:downloadURL ?url .
+}
+LIMIT 100
+OFFSET 0
+```
+
+&nbsp;
+
 ## Mobility datasets
 
 If you want to work with mobility datasets, you can explore and download them at different open data portals.
@@ -40,5 +63,14 @@ Have a look here:
 [European Data Portal](https://www.europeandataportal.eu/),
 [EU Open Data portal](https://data.europa.eu/euodp/en/data/) and
 [other portals](https://github.com/projekt-opal/doc/wiki/Open-Data-Portals).
+If you can not find Paderborn data, try to search for "NRW" / "North Rhine-Westphalia" / "Nordrhein-Westfalen".
+
+For data related to Paderborn have a look at [Open Data Paderborn](open-data-paderborn.md).
+
+A RDF version of OpenStreetMap is available at [LinkedGeoData.org](http://linkedgeodata.org).
+
+&nbsp;
 
 [Start page](index.md)
+
+&nbsp;
